@@ -1118,8 +1118,10 @@
     "114230",
     "https://github.com/pytorch/pytorch/issues/114230",
     [
+      "asan",
       "linux",
-      "asan"
+      "mac",
+      "macos"
     ]
   ],
   "test_make_fx_symbolic_exhaustive_special_erfcx_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
@@ -1162,6 +1164,13 @@
     [
       "linux",
       "asan"
+    ]
+  ],
+  "test_make_fx_symbolic_exhaustive_special_log_ndtr_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
+    "119365",
+    "https://github.com/pytorch/pytorch/issues/119365",
+    [
+      "linux"
     ]
   ],
   "test_mem_get_info (__main__.TestCuda)": [
@@ -1697,7 +1706,18 @@
     "https://github.com/pytorch/pytorch/issues/119357",
     [
       "linux",
-      "rocm"
+      "rocm",
+      "asan",
+      "mac",
+      "macos",
+      "slow"
+    ]
+  ],
+  "test_source_multithreaded_close_in_scope_work_in_main_thread_False (__main__.TestProfiler)": [
+    "119364",
+    "https://github.com/pytorch/pytorch/issues/119364",
+    [
+      "dynamo"
     ]
   ],
   "test_successful (jit.test_freezing.TestMKLDNNReinplacing)": [
