@@ -959,6 +959,13 @@
       "linux"
     ]
   ],
+  "test_make_fx_symbolic_exhaustive_out_special_bessel_y0_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
+    "113837",
+    "https://github.com/pytorch/pytorch/issues/113837",
+    [
+      "linux"
+    ]
+  ],
   "test_make_fx_symbolic_exhaustive_out_special_bessel_y1_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
     "113862",
     "https://github.com/pytorch/pytorch/issues/113862",
@@ -1591,13 +1598,6 @@
       "linux"
     ]
   ],
-  "test_retracibility_dict_container_inp_out_dynamic_shapes (__main__.DynamicShapesExportTests)": [
-    "117918",
-    "https://github.com/pytorch/pytorch/issues/117918",
-    [
-      "linux"
-    ]
-  ],
   "test_retracibility_dynamic_shapes (__main__.DynamicShapesExportTests)": [
     "117914",
     "https://github.com/pytorch/pytorch/issues/117914",
@@ -1689,6 +1689,14 @@
       "linux",
       "mac",
       "macos",
+      "rocm"
+    ]
+  ],
+  "test_source_multithreaded_basic_work_in_main_thread_True (__main__.TestProfiler)": [
+    "119357",
+    "https://github.com/pytorch/pytorch/issues/119357",
+    [
+      "linux",
       "rocm"
     ]
   ],
