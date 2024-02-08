@@ -20,14 +20,6 @@
       "rocm"
     ]
   ],
-  "test_activations (__main__.DistElementwiseOpsTest)": [
-    "103736",
-    "https://github.com/pytorch/pytorch/issues/103736",
-    [
-      "linux",
-      "rocm"
-    ]
-  ],
   "test_addmm (__main__.ComputeBoundedTests)": [
     "115022",
     "https://github.com/pytorch/pytorch/issues/115022",
