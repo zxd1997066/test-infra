@@ -1013,41 +1013,6 @@
       "linux"
     ]
   ],
-  "test_make_fx_symbolic_exhaustive_round_decimals_0_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
-    "113478",
-    "https://github.com/pytorch/pytorch/issues/113478",
-    [
-      "asan",
-      "linux",
-      "mac",
-      "macos",
-      "win",
-      "windows"
-    ]
-  ],
-  "test_make_fx_symbolic_exhaustive_round_decimals_3_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
-    "113489",
-    "https://github.com/pytorch/pytorch/issues/113489",
-    [
-      "mac",
-      "macos",
-      "win",
-      "windows",
-      "linux"
-    ]
-  ],
-  "test_make_fx_symbolic_exhaustive_round_decimals_neg_3_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
-    "113479",
-    "https://github.com/pytorch/pytorch/issues/113479",
-    [
-      "asan",
-      "linux",
-      "mac",
-      "macos",
-      "win",
-      "windows"
-    ]
-  ],
   "test_make_fx_symbolic_exhaustive_special_airy_ai_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
     "107739",
     "https://github.com/pytorch/pytorch/issues/107739",
@@ -1287,14 +1252,6 @@
     "115254",
     "https://github.com/pytorch/pytorch/issues/115254",
     [
-      "linux"
-    ]
-  ],
-  "test_noncontiguous_samples_nn_functional_conv3d_cuda_float32 (__main__.TestCommonCUDA)": [
-    "114655",
-    "https://github.com/pytorch/pytorch/issues/114655",
-    [
-      "rocm",
       "linux"
     ]
   ],
