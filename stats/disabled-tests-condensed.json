@@ -443,14 +443,6 @@
       "linux"
     ]
   ],
-  "test_dropout_backward (__main__.DistElementwiseOpsTest)": [
-    "118270",
-    "https://github.com/pytorch/pytorch/issues/118270",
-    [
-      "linux",
-      "rocm"
-    ]
-  ],
   "test_dropout_errors (__main__.DistElementwiseOpsTest)": [
     "118321",
     "https://github.com/pytorch/pytorch/issues/118321",
