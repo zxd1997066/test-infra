@@ -53,6 +53,10 @@
   },
   {
     "name": "ghstack-mergeability-check",
-    "captures": ["fatal: ambiguous argument 'origin/gh.*"]
+    "captures": [
+      "fatal: ambiguous argument 'origin/gh.*",
+      "Mergeability check failed for infrastructure reasons.",
+      "urllib.error.HTTPError: HTTP Error 403: Forbidden"
+    ]
   }
 ]
