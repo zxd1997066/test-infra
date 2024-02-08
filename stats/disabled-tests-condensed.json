@@ -1416,13 +1416,6 @@
       "linux"
     ]
   ],
-  "test_partial_mul_failure (__main__.DistElementwiseOpsTest)": [
-    "118285",
-    "https://github.com/pytorch/pytorch/issues/118285",
-    [
-      "linux"
-    ]
-  ],
   "test_pickle_nn_RNN_eval_mode_cuda_float64 (__main__.TestModuleCUDA)": [
     "94541",
     "https://github.com/pytorch/pytorch/issues/94541",
@@ -1817,14 +1810,6 @@
     "105119",
     "https://github.com/pytorch/pytorch/issues/105119",
     [
-      "rocm"
-    ]
-  ],
-  "test_unsafe_setattr (__main__.TestFSDPMiscWorldSize1)": [
-    "118286",
-    "https://github.com/pytorch/pytorch/issues/118286",
-    [
-      "linux",
       "rocm"
     ]
   ],
