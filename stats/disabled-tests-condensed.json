@@ -1013,17 +1013,6 @@
       "linux"
     ]
   ],
-  "test_make_fx_symbolic_exhaustive_special_airy_ai_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
-    "107739",
-    "https://github.com/pytorch/pytorch/issues/107739",
-    [
-      "linux",
-      "mac",
-      "macos",
-      "win",
-      "windows"
-    ]
-  ],
   "test_make_fx_symbolic_exhaustive_special_bessel_j0_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
     "102775",
     "https://github.com/pytorch/pytorch/issues/102775",
@@ -1130,6 +1119,30 @@
     "https://github.com/pytorch/pytorch/issues/119365",
     [
       "linux"
+    ]
+  ],
+  "test_make_fx_symbolic_exhaustive_special_modified_bessel_i0_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
+    "119489",
+    "https://github.com/pytorch/pytorch/issues/119489",
+    [
+      "win",
+      "windows"
+    ]
+  ],
+  "test_make_fx_symbolic_exhaustive_special_modified_bessel_i1_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
+    "119488",
+    "https://github.com/pytorch/pytorch/issues/119488",
+    [
+      "win",
+      "windows"
+    ]
+  ],
+  "test_make_fx_symbolic_exhaustive_special_scaled_modified_bessel_k1_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
+    "119487",
+    "https://github.com/pytorch/pytorch/issues/119487",
+    [
+      "win",
+      "windows"
     ]
   ],
   "test_mem_get_info (__main__.TestCuda)": [
@@ -1660,6 +1673,17 @@
   "test_source_multithreaded_close_in_scope_work_in_main_thread_False (__main__.TestProfiler)": [
     "119364",
     "https://github.com/pytorch/pytorch/issues/119364",
+    [
+      "dynamo",
+      "asan",
+      "linux",
+      "mac",
+      "macos"
+    ]
+  ],
+  "test_source_multithreaded_complex_work_in_main_thread_False (__main__.TestProfiler)": [
+    "119490",
+    "https://github.com/pytorch/pytorch/issues/119490",
     [
       "dynamo"
     ]
