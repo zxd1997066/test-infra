@@ -497,6 +497,13 @@
       "linux"
     ]
   ],
+  "test_fast_tasks (__main__.TestFunctionalAutogradBenchmark)": [
+    "119539",
+    "https://github.com/pytorch/pytorch/issues/119539",
+    [
+      "rocm"
+    ]
+  ],
   "test_find_or_create_pg (__main__.TestPgTag)": [
     "107278",
     "https://github.com/pytorch/pytorch/issues/107278",
@@ -812,6 +819,13 @@
   "test_intra_node_comm_all_reduce (__main__.CommTest)": [
     "115859",
     "https://github.com/pytorch/pytorch/issues/115859",
+    [
+      "rocm"
+    ]
+  ],
+  "test_item_to_inputs_kernel_nobreak_cuda (__main__.TestInductorDynamicCUDA)": [
+    "119538",
+    "https://github.com/pytorch/pytorch/issues/119538",
     [
       "rocm"
     ]
@@ -1653,9 +1667,26 @@
       "slow"
     ]
   ],
+  "test_source_multithreaded_complex_work_in_main_thread_True (__main__.TestProfiler)": [
+    "119536",
+    "https://github.com/pytorch/pytorch/issues/119536",
+    [
+      "linux",
+      "mac",
+      "macos",
+      "rocm"
+    ]
+  ],
   "test_source_multithreaded_multiple_preexisting_work_in_main_thread_False (__main__.TestProfiler)": [
     "119526",
     "https://github.com/pytorch/pytorch/issues/119526",
+    [
+      "dynamo"
+    ]
+  ],
+  "test_source_multithreaded_open_in_scope_work_in_main_thread_False (__main__.TestProfiler)": [
+    "119537",
+    "https://github.com/pytorch/pytorch/issues/119537",
     [
       "dynamo"
     ]
