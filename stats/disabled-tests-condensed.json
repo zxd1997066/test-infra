@@ -1674,7 +1674,8 @@
       "linux",
       "mac",
       "macos",
-      "rocm"
+      "rocm",
+      "asan"
     ]
   ],
   "test_source_multithreaded_multiple_preexisting_work_in_main_thread_False (__main__.TestProfiler)": [
