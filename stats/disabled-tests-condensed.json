@@ -264,13 +264,6 @@
       "windows"
     ]
   ],
-  "test_comprehensive_nn_functional_nll_loss_cuda_float64 (__main__.TestDecompCUDA)": [
-    "118355",
-    "https://github.com/pytorch/pytorch/issues/118355",
-    [
-      "rocm"
-    ]
-  ],
   "test_compute_local_shape_and_global_offset_1D (__main__.UtilTest)": [
     "109379",
     "https://github.com/pytorch/pytorch/issues/109379",
@@ -963,13 +956,6 @@
       "linux"
     ]
   ],
-  "test_make_fx_symbolic_exhaustive_out_special_hermite_polynomial_he_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
-    "113947",
-    "https://github.com/pytorch/pytorch/issues/113947",
-    [
-      "linux"
-    ]
-  ],
   "test_make_fx_symbolic_exhaustive_out_special_i0e_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
     "117481",
     "https://github.com/pytorch/pytorch/issues/117481",
@@ -1658,7 +1644,13 @@
     "119490",
     "https://github.com/pytorch/pytorch/issues/119490",
     [
-      "dynamo"
+      "dynamo",
+      "asan",
+      "linux",
+      "mac",
+      "macos",
+      "rocm",
+      "slow"
     ]
   ],
   "test_source_multithreaded_multiple_preexisting_work_in_main_thread_False (__main__.TestProfiler)": [
