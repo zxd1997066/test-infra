@@ -970,6 +970,13 @@
       "linux"
     ]
   ],
+  "test_make_fx_symbolic_exhaustive_out_special_hermite_polynomial_h_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
+    "113910",
+    "https://github.com/pytorch/pytorch/issues/113910",
+    [
+      "linux"
+    ]
+  ],
   "test_make_fx_symbolic_exhaustive_out_special_i0e_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
     "117481",
     "https://github.com/pytorch/pytorch/issues/117481",
@@ -1709,14 +1716,19 @@
       "linux",
       "mac",
       "macos",
-      "rocm"
+      "rocm",
+      "asan",
+      "slow"
     ]
   ],
   "test_source_multithreaded_open_in_scope_work_in_main_thread_False (__main__.TestProfiler)": [
     "119537",
     "https://github.com/pytorch/pytorch/issues/119537",
     [
-      "dynamo"
+      "dynamo",
+      "linux",
+      "mac",
+      "macos"
     ]
   ],
   "test_successful (jit.test_freezing.TestMKLDNNReinplacing)": [
