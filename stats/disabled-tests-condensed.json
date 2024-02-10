@@ -388,14 +388,6 @@
       "linux"
     ]
   ],
-  "test_ddp_has_finalized (__main__.TestDistBackendWithSpawn)": [
-    "102751",
-    "https://github.com/pytorch/pytorch/issues/102751",
-    [
-      "rocm",
-      "linux"
-    ]
-  ],
   "test_ddp_profiling_autograd_profiler (__main__.TestDistBackendWithSpawn)": [
     "77342",
     "https://github.com/pytorch/pytorch/issues/77342",
