@@ -1617,6 +1617,13 @@
       "windows"
     ]
   ],
+  "test_sdpa_compile_cuda_bfloat16 (__main__.TestNestedTensorSubclassCUDA)": [
+    "119903",
+    "https://github.com/pytorch/pytorch/issues/119903",
+    [
+      "rocm"
+    ]
+  ],
   "test_second_order_accurate (__main__.TestGradient)": [
     "116746",
     "https://github.com/pytorch/pytorch/issues/116746",
