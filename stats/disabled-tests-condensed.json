@@ -687,6 +687,13 @@
       "windows"
     ]
   ],
+  "test_index_put_deterministic_fallback_dynamic_shapes_cuda (__main__.DynamicShapesCodegenGPUTests)": [
+    "119880",
+    "https://github.com/pytorch/pytorch/issues/119880",
+    [
+      "rocm"
+    ]
+  ],
   "test_index_put_with_none_index_abi_compatible_cuda (__main__.AOTInductorTestABICompatibleCuda)": [
     "118307",
     "https://github.com/pytorch/pytorch/issues/118307",
@@ -1457,6 +1464,14 @@
       "mac",
       "rocm",
       "linux"
+    ]
+  ],
+  "test_profiler_experimental_tree_with_memory (__main__.TestProfilerTree)": [
+    "82501",
+    "https://github.com/pytorch/pytorch/issues/82501",
+    [
+      "linux",
+      "rocm"
     ]
   ],
   "test_public_api_surface (__main__.TestFXAPIBackwardCompatibility)": [
