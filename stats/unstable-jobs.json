@@ -1,1 +1,10 @@
-{}
+{
+  "rocm / linux-focal-rocm6.0-py3.8 / test (default)": [
+    "huydhn",
+    "119908",
+    "https://github.com/pytorch/pytorch/issues/119908",
+    "rocm",
+    "linux-focal-rocm6.0-py3.8",
+    "test (default)"
+  ]
+}
