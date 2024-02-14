@@ -1822,15 +1822,6 @@
       "mac"
     ]
   ],
-  "test_torch_name_rule_map (__main__.TraceRuleTests)": [
-    "112354",
-    "https://github.com/pytorch/pytorch/issues/112354",
-    [
-      "mac",
-      "macos",
-      "linux"
-    ]
-  ],
   "test_torch_name_rule_map_updated (__main__.TraceRuleTests)": [
     "114831",
     "https://github.com/pytorch/pytorch/issues/114831",
