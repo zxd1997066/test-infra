@@ -923,14 +923,6 @@
       "linux"
     ]
   ],
-  "test_make_fx_symbolic_exhaustive_out_special_bessel_j0_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
-    "113757",
-    "https://github.com/pytorch/pytorch/issues/113757",
-    [
-      "linux",
-      "asan"
-    ]
-  ],
   "test_make_fx_symbolic_exhaustive_out_special_bessel_j1_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
     "113805",
     "https://github.com/pytorch/pytorch/issues/113805",
@@ -978,13 +970,6 @@
   "test_make_fx_symbolic_exhaustive_out_special_hermite_polynomial_he_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
     "113947",
     "https://github.com/pytorch/pytorch/issues/113947",
-    [
-      "linux"
-    ]
-  ],
-  "test_make_fx_symbolic_exhaustive_out_special_i1e_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
-    "118738",
-    "https://github.com/pytorch/pytorch/issues/118738",
     [
       "linux"
     ]
@@ -1190,6 +1175,13 @@
     [
       "mac",
       "macos"
+    ]
+  ],
+  "test_multinomial_gpu_device_constrain_cuda (__main__.TestTorchDeviceTypeCUDA)": [
+    "119887",
+    "https://github.com/pytorch/pytorch/issues/119887",
+    [
+      "inductor"
     ]
   ],
   "test_nested (quantization.jit.test_quantize_jit.TestQuantizeJit)": [
@@ -1485,6 +1477,13 @@
       "rocm",
       "win",
       "windows"
+    ]
+  ],
+  "test_pynode_destruction_deadlock (__main__.TestAutograd)": [
+    "119886",
+    "https://github.com/pytorch/pytorch/issues/119886",
+    [
+      "rocm"
     ]
   ],
   "test_python_ir_utils (__main__.TestJit)": [
