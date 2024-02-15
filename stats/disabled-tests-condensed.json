@@ -192,13 +192,6 @@
       "linux"
     ]
   ],
-  "test_circular_dependencies (__main__.TestImports)": [
-    "110040",
-    "https://github.com/pytorch/pytorch/issues/110040",
-    [
-      "rocm"
-    ]
-  ],
   "test_compare_cpu__refs_empty_strided_cuda_float32 (__main__.TestCommonCUDA)": [
     "101625",
     "https://github.com/pytorch/pytorch/issues/101625",
@@ -1075,13 +1068,6 @@
       "win",
       "windows",
       "asan"
-    ]
-  ],
-  "test_make_fx_symbolic_exhaustive_special_i1_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
-    "114408",
-    "https://github.com/pytorch/pytorch/issues/114408",
-    [
-      "linux"
     ]
   ],
   "test_make_fx_symbolic_exhaustive_special_laguerre_polynomial_l_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
