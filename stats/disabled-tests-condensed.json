@@ -1607,6 +1607,13 @@
       "rocm"
     ]
   ],
+  "test_sdpa_with_packed_in_proj_cuda_float32 (__main__.TestNestedTensorSubclassCUDA)": [
+    "120029",
+    "https://github.com/pytorch/pytorch/issues/120029",
+    [
+      "rocm"
+    ]
+  ],
   "test_second_order_accurate (__main__.TestGradient)": [
     "116746",
     "https://github.com/pytorch/pytorch/issues/116746",
@@ -1824,6 +1831,13 @@
     "https://github.com/pytorch/pytorch/issues/70546",
     [
       "mac"
+    ]
+  ],
+  "test_timeout_dumps_timing_enabled_False (__main__.NCCLTraceTestDumpOnTimeout)": [
+    "120028",
+    "https://github.com/pytorch/pytorch/issues/120028",
+    [
+      "rocm"
     ]
   ],
   "test_torch_name_rule_map_updated (__main__.TraceRuleTests)": [
