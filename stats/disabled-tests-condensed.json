@@ -1600,6 +1600,13 @@
       "rocm"
     ]
   ],
+  "test_sdpa_with_packed_in_proj_cuda_float16 (__main__.TestNestedTensorSubclassCUDA)": [
+    "120008",
+    "https://github.com/pytorch/pytorch/issues/120008",
+    [
+      "rocm"
+    ]
+  ],
   "test_second_order_accurate (__main__.TestGradient)": [
     "116746",
     "https://github.com/pytorch/pytorch/issues/116746",
