@@ -1084,6 +1084,15 @@
       "windows"
     ]
   ],
+  "test_make_fx_symbolic_exhaustive_svd_lowrank_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
+    "120121",
+    "https://github.com/pytorch/pytorch/issues/120121",
+    [
+      "linux",
+      "mac",
+      "macos"
+    ]
+  ],
   "test_mem_get_info (__main__.TestCuda)": [
     "103495",
     "https://github.com/pytorch/pytorch/issues/103495",
