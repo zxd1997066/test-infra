@@ -227,6 +227,13 @@
       "inductor"
     ]
   ],
+  "test_complex_half_reference_testing_fft_ifft_cuda_complex32 (__main__.TestCommonCUDA)": [
+    "120071",
+    "https://github.com/pytorch/pytorch/issues/120071",
+    [
+      "rocm"
+    ]
+  ],
   "test_complex_half_reference_testing_pow_cuda_complex32 (__main__.TestCommonCUDA)": [
     "108993",
     "https://github.com/pytorch/pytorch/issues/108993",
@@ -1031,14 +1038,6 @@
       "linux",
       "win",
       "windows"
-    ]
-  ],
-  "test_make_fx_symbolic_exhaustive_special_hermite_polynomial_h_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
-    "114332",
-    "https://github.com/pytorch/pytorch/issues/114332",
-    [
-      "linux",
-      "asan"
     ]
   ],
   "test_make_fx_symbolic_exhaustive_special_hermite_polynomial_he_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
