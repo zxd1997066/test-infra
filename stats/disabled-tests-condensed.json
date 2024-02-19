@@ -756,19 +756,6 @@
       "rocm"
     ]
   ],
-  "test_inference_mode (__main__.TestAOTAutograd)": [
-    "117714",
-    "https://github.com/pytorch/pytorch/issues/117714",
-    [
-      "linux",
-      "mac",
-      "macos",
-      "rocm",
-      "win",
-      "windows",
-      "slow"
-    ]
-  ],
   "test_init_from_local_shards (__main__.TestShardedTensorFromLocalShards)": [
     "78068",
     "https://github.com/pytorch/pytorch/issues/78068",
