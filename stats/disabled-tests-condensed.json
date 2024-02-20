@@ -626,6 +626,13 @@
       "linux"
     ]
   ],
+  "test_graph_concurrent_replay (__main__.TestCuda)": [
+    "104055",
+    "https://github.com/pytorch/pytorch/issues/104055",
+    [
+      "rocm"
+    ]
+  ],
   "test_hash_with_numbers (__main__.NoChangeTestCase)": [
     "119888",
     "https://github.com/pytorch/pytorch/issues/119888",
