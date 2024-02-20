@@ -542,11 +542,6 @@
       "linux"
     ]
   ],
-  "test_fs_pool (__main__.TestMultiprocessing)": [
-    "69659",
-    "https://github.com/pytorch/pytorch/issues/69659",
-    []
-  ],
   "test_fs_preserve_sharing (__main__.TestMultiprocessing)": [
     "91467",
     "https://github.com/pytorch/pytorch/issues/91467",
@@ -1062,13 +1057,6 @@
     [
       "linux",
       "win"
-    ]
-  ],
-  "test_memory_format_nn_ConvTranspose1d_cuda_complex32 (__main__.TestModuleCUDA)": [
-    "107426",
-    "https://github.com/pytorch/pytorch/issues/107426",
-    [
-      "linux"
     ]
   ],
   "test_memory_format_nn_ConvTranspose2d_cuda_complex32 (__main__.TestModuleCUDA)": [
