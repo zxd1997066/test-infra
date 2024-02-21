@@ -125,7 +125,8 @@
     "120280",
     "https://github.com/pytorch/pytorch/issues/120280",
     [
-      "linux"
+      "linux",
+      "rocm"
     ]
   ],
   "test_broadcast_1d (__main__.DeviceMeshCollectiveTest)": [
@@ -1026,18 +1027,6 @@
       "linux",
       "win",
       "windows"
-    ]
-  ],
-  "test_make_fx_symbolic_exhaustive_special_hermite_polynomial_he_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
-    "114212",
-    "https://github.com/pytorch/pytorch/issues/114212",
-    [
-      "linux",
-      "mac",
-      "macos",
-      "win",
-      "windows",
-      "asan"
     ]
   ],
   "test_make_fx_symbolic_exhaustive_special_laguerre_polynomial_l_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
