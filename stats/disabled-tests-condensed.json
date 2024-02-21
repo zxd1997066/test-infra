@@ -742,6 +742,13 @@
       "rocm"
     ]
   ],
+  "test_inductor_profiling_triton_hooks (__main__.DynamoProfilerTests)": [
+    "120269",
+    "https://github.com/pytorch/pytorch/issues/120269",
+    [
+      "linux"
+    ]
+  ],
   "test_inductor_reuse_buffer_after_inplace_collective (__main__.C10DFunctionalNativeTest)": [
     "118543",
     "https://github.com/pytorch/pytorch/issues/118543",
@@ -909,6 +916,13 @@
       "linux"
     ]
   ],
+  "test_make_fx_symbolic_exhaustive_out_special_airy_ai_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
+    "113736",
+    "https://github.com/pytorch/pytorch/issues/113736",
+    [
+      "linux"
+    ]
+  ],
   "test_make_fx_symbolic_exhaustive_out_special_bessel_y0_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
     "113837",
     "https://github.com/pytorch/pytorch/issues/113837",
@@ -922,6 +936,13 @@
     [
       "linux",
       "asan"
+    ]
+  ],
+  "test_make_fx_symbolic_exhaustive_out_special_chebyshev_polynomial_t_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
+    "113806",
+    "https://github.com/pytorch/pytorch/issues/113806",
+    [
+      "linux"
     ]
   ],
   "test_make_fx_symbolic_exhaustive_out_special_hermite_polynomial_h_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
