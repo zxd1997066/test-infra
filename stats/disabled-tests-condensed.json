@@ -418,6 +418,13 @@
       "linux"
     ]
   ],
+  "test_dead_wrapper_plus_view (__main__.TestOpWaitiness)": [
+    "120325",
+    "https://github.com/pytorch/pytorch/issues/120325",
+    [
+      "linux"
+    ]
+  ],
   "test_decoder_padding_and_src_mask_bool_cpu (__main__.TestTransformersCPU)": [
     "101787",
     "https://github.com/pytorch/pytorch/issues/101787",
