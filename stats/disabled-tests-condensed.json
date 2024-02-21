@@ -121,6 +121,13 @@
       "mac"
     ]
   ],
+  "test_batch_linear_post_grad_fusion (__main__.TestPostGradBatchLinearFusion)": [
+    "120280",
+    "https://github.com/pytorch/pytorch/issues/120280",
+    [
+      "linux"
+    ]
+  ],
   "test_broadcast_1d (__main__.DeviceMeshCollectiveTest)": [
     "98048",
     "https://github.com/pytorch/pytorch/issues/98048",
@@ -445,6 +452,15 @@
     "https://github.com/pytorch/pytorch/issues/116121",
     [
       "dynamo"
+    ]
+  ],
+  "test_dynamic_stride_nobreak_cuda (__main__.TestInductorDynamicCUDA)": [
+    "117954",
+    "https://github.com/pytorch/pytorch/issues/117954",
+    [
+      "linux",
+      "slow",
+      "rocm"
     ]
   ],
   "test_expanded_reduction_cpu (__main__.CpuTests)": [
