@@ -437,7 +437,8 @@
     "120405",
     "https://github.com/pytorch/pytorch/issues/120405",
     [
-      "linux"
+      "linux",
+      "rocm"
     ]
   ],
   "test_decoder_padding_and_src_mask_bool_cpu (__main__.TestTransformersCPU)": [
@@ -1505,6 +1506,14 @@
     "https://github.com/pytorch/pytorch/issues/117724",
     [
       "linux"
+    ]
+  ],
+  "test_reduce_scatter_tensor_device_cpu_use_native_funcol_True (__main__.TestTraceableCollectives)": [
+    "120421",
+    "https://github.com/pytorch/pytorch/issues/120421",
+    [
+      "linux",
+      "rocm"
     ]
   ],
   "test_reduce_scatter_uneven (__main__.DeviceMeshCollectiveTest)": [
