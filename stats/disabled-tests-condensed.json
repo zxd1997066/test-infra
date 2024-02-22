@@ -433,6 +433,13 @@
       "linux"
     ]
   ],
+  "test_dead_wrapper_triggers_wait (__main__.TestOpWaitiness)": [
+    "120405",
+    "https://github.com/pytorch/pytorch/issues/120405",
+    [
+      "linux"
+    ]
+  ],
   "test_decoder_padding_and_src_mask_bool_cpu (__main__.TestTransformersCPU)": [
     "101787",
     "https://github.com/pytorch/pytorch/issues/101787",
@@ -1047,13 +1054,6 @@
     [
       "linux",
       "asan"
-    ]
-  ],
-  "test_make_fx_symbolic_exhaustive_special_log_ndtr_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
-    "119365",
-    "https://github.com/pytorch/pytorch/issues/119365",
-    [
-      "linux"
     ]
   ],
   "test_make_fx_symbolic_exhaustive_special_modified_bessel_i0_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
