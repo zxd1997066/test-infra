@@ -86,6 +86,14 @@
       "windows"
     ]
   ],
+  "test_averaged_model_all_devices_ema_False (__main__.TestSWAUtils)": [
+    "120372",
+    "https://github.com/pytorch/pytorch/issues/120372",
+    [
+      "win",
+      "windows"
+    ]
+  ],
   "test_backward_ddp_inside (__main__.TensorPipeDdpUnderDistAutogradTest)": [
     "104328",
     "https://github.com/pytorch/pytorch/issues/104328",
@@ -1031,16 +1039,6 @@
       "asan",
       "mac",
       "macos"
-    ]
-  ],
-  "test_make_fx_symbolic_exhaustive_special_entr_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
-    "107197",
-    "https://github.com/pytorch/pytorch/issues/107197",
-    [
-      "asan",
-      "linux",
-      "win",
-      "windows"
     ]
   ],
   "test_make_fx_symbolic_exhaustive_special_laguerre_polynomial_l_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
