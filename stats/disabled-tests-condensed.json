@@ -531,13 +531,6 @@
       "linux"
     ]
   ],
-  "test_fast_tasks (__main__.TestFunctionalAutogradBenchmark)": [
-    "119539",
-    "https://github.com/pytorch/pytorch/issues/119539",
-    [
-      "rocm"
-    ]
-  ],
   "test_find_or_create_pg (__main__.TestPgTag)": [
     "107278",
     "https://github.com/pytorch/pytorch/issues/107278",
@@ -1711,17 +1704,6 @@
   "test_source_multithreaded_close_in_scope_work_in_main_thread_True (__main__.TestProfiler)": [
     "119514",
     "https://github.com/pytorch/pytorch/issues/119514",
-    [
-      "linux",
-      "mac",
-      "macos",
-      "rocm",
-      "asan"
-    ]
-  ],
-  "test_source_multithreaded_complex_work_in_main_thread_True (__main__.TestProfiler)": [
-    "119536",
-    "https://github.com/pytorch/pytorch/issues/119536",
     [
       "asan",
       "linux",
