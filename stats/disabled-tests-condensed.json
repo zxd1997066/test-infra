@@ -873,13 +873,6 @@
       "rocm"
     ]
   ],
-  "test_item_to_inputs_kernel_nobreak_cuda (__main__.TestInductorDynamicCUDA)": [
-    "119538",
-    "https://github.com/pytorch/pytorch/issues/119538",
-    [
-      "rocm"
-    ]
-  ],
   "test_jvpvjp_nn_functional_conv3d_cuda_float32 (__main__.TestOperatorsCUDA)": [
     "114654",
     "https://github.com/pytorch/pytorch/issues/114654",
@@ -1713,6 +1706,17 @@
       "macos",
       "rocm",
       "slow"
+    ]
+  ],
+  "test_source_multithreaded_close_in_scope_work_in_main_thread_True (__main__.TestProfiler)": [
+    "119514",
+    "https://github.com/pytorch/pytorch/issues/119514",
+    [
+      "linux",
+      "mac",
+      "macos",
+      "rocm",
+      "asan"
     ]
   ],
   "test_source_multithreaded_complex_work_in_main_thread_True (__main__.TestProfiler)": [
