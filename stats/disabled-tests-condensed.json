@@ -501,6 +501,15 @@
       "linux"
     ]
   ],
+  "test_external_module_register (__main__.TestExtensionUtils)": [
+    "120456",
+    "https://github.com/pytorch/pytorch/issues/120456",
+    [
+      "linux",
+      "win",
+      "windows"
+    ]
+  ],
   "test_extract_gradients_from_optimizer_set_to_none (__main__.TestIdentifyGradients)": [
     "88721",
     "https://github.com/pytorch/pytorch/issues/88721",
@@ -877,6 +886,13 @@
       "windows"
     ]
   ],
+  "test_kineto_profiler_with_environment_variable (__main__.TestProfiler)": [
+    "107383",
+    "https://github.com/pytorch/pytorch/issues/107383",
+    [
+      "rocm"
+    ]
+  ],
   "test_large_block_sizes_cpu (__main__.CpuTests)": [
     "113139",
     "https://github.com/pytorch/pytorch/issues/113139",
@@ -1075,30 +1091,6 @@
     [
       "linux",
       "asan"
-    ]
-  ],
-  "test_make_fx_symbolic_exhaustive_special_modified_bessel_i0_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
-    "119489",
-    "https://github.com/pytorch/pytorch/issues/119489",
-    [
-      "win",
-      "windows"
-    ]
-  ],
-  "test_make_fx_symbolic_exhaustive_special_modified_bessel_i1_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
-    "119488",
-    "https://github.com/pytorch/pytorch/issues/119488",
-    [
-      "win",
-      "windows"
-    ]
-  ],
-  "test_make_fx_symbolic_exhaustive_special_scaled_modified_bessel_k1_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
-    "119487",
-    "https://github.com/pytorch/pytorch/issues/119487",
-    [
-      "win",
-      "windows"
     ]
   ],
   "test_make_fx_symbolic_exhaustive_svd_lowrank_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
