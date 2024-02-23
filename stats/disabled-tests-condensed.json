@@ -1455,6 +1455,19 @@
       "rocm"
     ]
   ],
+  "test_public_api_surface (__main__.TestFXAPIBackwardCompatibility)": [
+    "104012",
+    "https://github.com/pytorch/pytorch/issues/104012",
+    [
+      "asan",
+      "linux",
+      "mac",
+      "macos",
+      "rocm",
+      "win",
+      "windows"
+    ]
+  ],
   "test_pynode_destruction_deadlock (__main__.TestAutograd)": [
     "119886",
     "https://github.com/pytorch/pytorch/issues/119886",
@@ -1700,17 +1713,6 @@
       "macos",
       "rocm",
       "slow"
-    ]
-  ],
-  "test_source_multithreaded_close_in_scope_work_in_main_thread_True (__main__.TestProfiler)": [
-    "119514",
-    "https://github.com/pytorch/pytorch/issues/119514",
-    [
-      "linux",
-      "mac",
-      "macos",
-      "rocm",
-      "asan"
     ]
   ],
   "test_source_multithreaded_complex_work_in_main_thread_False (__main__.TestProfiler)": [
