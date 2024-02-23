@@ -507,7 +507,11 @@
     [
       "linux",
       "win",
-      "windows"
+      "windows",
+      "asan",
+      "mac",
+      "macos",
+      "rocm"
     ]
   ],
   "test_extract_gradients_from_optimizer_set_to_none (__main__.TestIdentifyGradients)": [
@@ -1451,19 +1455,6 @@
       "rocm"
     ]
   ],
-  "test_public_api_surface (__main__.TestFXAPIBackwardCompatibility)": [
-    "104012",
-    "https://github.com/pytorch/pytorch/issues/104012",
-    [
-      "asan",
-      "linux",
-      "mac",
-      "macos",
-      "rocm",
-      "win",
-      "windows"
-    ]
-  ],
   "test_pynode_destruction_deadlock (__main__.TestAutograd)": [
     "119886",
     "https://github.com/pytorch/pytorch/issues/119886",
@@ -2077,6 +2068,13 @@
   "test_wait_i_6 (__main__.TestMultiThreadedWait)": [
     "107425",
     "https://github.com/pytorch/pytorch/issues/107425",
+    [
+      "linux"
+    ]
+  ],
+  "test_wait_reduce_outstanding_work_count (__main__.TestOpWaitiness)": [
+    "120467",
+    "https://github.com/pytorch/pytorch/issues/120467",
     [
       "linux"
     ]
