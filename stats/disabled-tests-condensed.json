@@ -1601,7 +1601,7 @@
     "120510",
     "https://github.com/pytorch/pytorch/issues/120510",
     [
-      "slow"
+      "linux"
     ]
   ],
   "test_sdpa_with_packed_in_proj_cuda_bfloat16 (__main__.TestNestedTensorSubclassCUDA)": [
