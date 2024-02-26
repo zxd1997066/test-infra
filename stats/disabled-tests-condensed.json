@@ -711,6 +711,13 @@
       "linux"
     ]
   ],
+  "test_impl_on_existing_op_with_cpu_registration_key_CompositeExplicitAutograd (__main__.TestCustomOp)": [
+    "120656",
+    "https://github.com/pytorch/pytorch/issues/120656",
+    [
+      "dynamo"
+    ]
+  ],
   "test_incorrect_schema_view_cpu (__main__.TestCustomOpTestingCPU)": [
     "118183",
     "https://github.com/pytorch/pytorch/issues/118183",
@@ -1012,6 +1019,18 @@
       "macos",
       "win",
       "windows"
+    ]
+  ],
+  "test_make_fx_symbolic_exhaustive_special_bessel_j0_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
+    "102775",
+    "https://github.com/pytorch/pytorch/issues/102775",
+    [
+      "linux",
+      "mac",
+      "macos",
+      "win",
+      "windows",
+      "asan"
     ]
   ],
   "test_make_fx_symbolic_exhaustive_special_bessel_y1_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
