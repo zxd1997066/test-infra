@@ -1003,6 +1003,17 @@
       "linux"
     ]
   ],
+  "test_make_fx_symbolic_exhaustive_special_airy_ai_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
+    "107739",
+    "https://github.com/pytorch/pytorch/issues/107739",
+    [
+      "linux",
+      "mac",
+      "macos",
+      "win",
+      "windows"
+    ]
+  ],
   "test_make_fx_symbolic_exhaustive_special_bessel_y1_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
     "107114",
     "https://github.com/pytorch/pytorch/issues/107114",
@@ -1041,6 +1052,18 @@
       "linux",
       "win",
       "windows"
+    ]
+  ],
+  "test_make_fx_symbolic_exhaustive_special_hermite_polynomial_he_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
+    "114212",
+    "https://github.com/pytorch/pytorch/issues/114212",
+    [
+      "linux",
+      "mac",
+      "macos",
+      "win",
+      "windows",
+      "asan"
     ]
   ],
   "test_make_fx_symbolic_exhaustive_special_laguerre_polynomial_l_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
@@ -1745,7 +1768,8 @@
       "linux",
       "mac",
       "macos",
-      "rocm"
+      "rocm",
+      "slow"
     ]
   ],
   "test_successful (jit.test_freezing.TestMKLDNNReinplacing)": [
@@ -1900,13 +1924,6 @@
     "https://github.com/pytorch/pytorch/issues/105119",
     [
       "rocm"
-    ]
-  ],
-  "test_unwrap_storage_didnt_work_repro_cuda (__main__.TestInductorDynamicCUDA)": [
-    "119231",
-    "https://github.com/pytorch/pytorch/issues/119231",
-    [
-      "linux"
     ]
   ],
   "test_variant_consistency_eager_nn_functional_conv3d_cuda_complex64 (__main__.TestCommonCUDA)": [
