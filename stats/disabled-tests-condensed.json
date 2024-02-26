@@ -1737,6 +1737,17 @@
       "slow"
     ]
   ],
+  "test_source_multithreaded_open_in_scope_work_in_main_thread_False (__main__.TestProfiler)": [
+    "119537",
+    "https://github.com/pytorch/pytorch/issues/119537",
+    [
+      "dynamo",
+      "linux",
+      "mac",
+      "macos",
+      "rocm"
+    ]
+  ],
   "test_successful (jit.test_freezing.TestMKLDNNReinplacing)": [
     "91489",
     "https://github.com/pytorch/pytorch/issues/91489",
