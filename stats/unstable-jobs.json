@@ -1,12 +1,4 @@
 {
-  "inductor / rocm6.0-py3.8-inductor / test (inductor)": [
-    "huydhn",
-    "120018",
-    "https://github.com/pytorch/pytorch/issues/120018",
-    "inductor",
-    "rocm6.0-py3.8-inductor",
-    "test (inductor)"
-  ],
   "periodic / linux-focal-rocm6.0-py3.8 / test (distributed)": [
     "jeffdaily",
     "120032",
@@ -14,29 +6,5 @@
     "periodic",
     "linux-focal-rocm6.0-py3.8",
     "test (distributed)"
-  ],
-  "rocm / linux-focal-rocm6.0-py3.8 / test (default)": [
-    "huydhn",
-    "119908",
-    "https://github.com/pytorch/pytorch/issues/119908",
-    "rocm",
-    "linux-focal-rocm6.0-py3.8",
-    "test (default)"
-  ],
-  "slow / linux-focal-rocm6.0-py3.8 / test (slow)": [
-    "jeffdaily",
-    "120030",
-    "https://github.com/pytorch/pytorch/issues/120030",
-    "slow",
-    "linux-focal-rocm6.0-py3.8",
-    "test (slow)"
-  ],
-  "trunk / linux-focal-rocm6.0-py3.8 / test (default)": [
-    "jeffdaily",
-    "120031",
-    "https://github.com/pytorch/pytorch/issues/120031",
-    "trunk",
-    "linux-focal-rocm6.0-py3.8",
-    "test (default)"
   ]
 }
