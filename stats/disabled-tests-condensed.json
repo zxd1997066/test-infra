@@ -48,6 +48,13 @@
       "linux"
     ]
   ],
+  "test_all_gather_uneven_use_native_funcol_True (__main__.DeviceMeshCollectiveTest)": [
+    "120692",
+    "https://github.com/pytorch/pytorch/issues/120692",
+    [
+      "linux"
+    ]
+  ],
   "test_all_reduce_coalesced_group_min (__main__.TestDistBackendWithSpawn)": [
     "70754",
     "https://github.com/pytorch/pytorch/issues/70754",
@@ -292,6 +299,13 @@
       "linux"
     ]
   ],
+  "test_comprehensive_nn_functional_nll_loss_cuda_float64 (__main__.TestDecompCUDA)": [
+    "118355",
+    "https://github.com/pytorch/pytorch/issues/118355",
+    [
+      "rocm"
+    ]
+  ],
   "test_compute_local_shape_and_global_offset_1D (__main__.UtilTest)": [
     "109379",
     "https://github.com/pytorch/pytorch/issues/109379",
@@ -472,6 +486,13 @@
   "test_dtensor_device_mesh_device_conversion (__main__.DTensorMeshTest)": [
     "100126",
     "https://github.com/pytorch/pytorch/issues/100126",
+    [
+      "linux"
+    ]
+  ],
+  "test_dtypes_torch_ops_aten__efficient_attention_forward_cuda (__main__.TestCommonCUDA)": [
+    "120693",
+    "https://github.com/pytorch/pytorch/issues/120693",
     [
       "linux"
     ]
@@ -871,6 +892,13 @@
       "rocm"
     ]
   ],
+  "test_is_isnot (__main__.TestScript)": [
+    "120694",
+    "https://github.com/pytorch/pytorch/issues/120694",
+    [
+      "dynamo"
+    ]
+  ],
   "test_jvpvjp_nn_functional_conv3d_cuda_float32 (__main__.TestOperatorsCUDA)": [
     "114654",
     "https://github.com/pytorch/pytorch/issues/114654",
@@ -1064,6 +1092,16 @@
       "linux",
       "win",
       "windows"
+    ]
+  ],
+  "test_make_fx_symbolic_exhaustive_special_hermite_polynomial_h_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
+    "114332",
+    "https://github.com/pytorch/pytorch/issues/114332",
+    [
+      "asan",
+      "linux",
+      "mac",
+      "macos"
     ]
   ],
   "test_make_fx_symbolic_exhaustive_special_hermite_polynomial_he_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
@@ -1328,13 +1366,6 @@
     "https://github.com/pytorch/pytorch/issues/82340",
     [
       "linux"
-    ]
-  ],
-  "test_opcheck_fails_basic_cpu (__main__.TestCustomOpTestingCPU)": [
-    "119159",
-    "https://github.com/pytorch/pytorch/issues/119159",
-    [
-      "dynamo"
     ]
   ],
   "test_open_device_registration (__main__.TestCppExtensionOpenRgistration)": [
