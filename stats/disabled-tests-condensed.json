@@ -69,6 +69,13 @@
       "linux"
     ]
   ],
+  "test_all_to_all_1d_use_native_funcol_False (__main__.DeviceMeshCollectiveTest)": [
+    "120706",
+    "https://github.com/pytorch/pytorch/issues/120706",
+    [
+      "linux"
+    ]
+  ],
   "test_always_alive_values (jit.test_freezing.TestMKLDNNReinplacing)": [
     "91486",
     "https://github.com/pytorch/pytorch/issues/91486",
