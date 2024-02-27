@@ -1003,13 +1003,6 @@
       "linux"
     ]
   ],
-  "test_make_fx_symbolic_exhaustive_out_special_hermite_polynomial_he_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
-    "113947",
-    "https://github.com/pytorch/pytorch/issues/113947",
-    [
-      "linux"
-    ]
-  ],
   "test_make_fx_symbolic_exhaustive_special_airy_ai_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
     "107739",
     "https://github.com/pytorch/pytorch/issues/107739",
@@ -1082,14 +1075,6 @@
       "macos",
       "win",
       "windows",
-      "asan"
-    ]
-  ],
-  "test_make_fx_symbolic_exhaustive_special_laguerre_polynomial_l_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
-    "114461",
-    "https://github.com/pytorch/pytorch/issues/114461",
-    [
-      "linux",
       "asan"
     ]
   ],
