@@ -389,6 +389,14 @@
     "120784",
     "https://github.com/pytorch/pytorch/issues/120784",
     [
+      "linux",
+      "inductor"
+    ]
+  ],
+  "test_cow_input_nn_functional_conv_transpose2d_cuda_float32 (__main__.TestCompositeComplianceCUDA)": [
+    "120789",
+    "https://github.com/pytorch/pytorch/issues/120789",
+    [
       "linux"
     ]
   ],
@@ -396,7 +404,8 @@
     "120782",
     "https://github.com/pytorch/pytorch/issues/120782",
     [
-      "inductor"
+      "inductor",
+      "linux"
     ]
   ],
   "test_cpp_frontend_module_has_same_output_as_python (__main__.TestCppExtensionJIT)": [
@@ -809,13 +818,6 @@
       "windows"
     ]
   ],
-  "test_index_put_deterministic_fallback_dynamic_shapes_cuda (__main__.DynamicShapesCodegenGPUTests)": [
-    "119880",
-    "https://github.com/pytorch/pytorch/issues/119880",
-    [
-      "rocm"
-    ]
-  ],
   "test_index_put_with_none_index_abi_compatible_cuda (__main__.AOTInductorTestABICompatibleCuda)": [
     "118307",
     "https://github.com/pytorch/pytorch/issues/118307",
@@ -1054,14 +1056,6 @@
       "linux"
     ]
   ],
-  "test_make_fx_symbolic_exhaustive_out_special_bessel_y1_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
-    "113862",
-    "https://github.com/pytorch/pytorch/issues/113862",
-    [
-      "linux",
-      "asan"
-    ]
-  ],
   "test_make_fx_symbolic_exhaustive_out_special_chebyshev_polynomial_t_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
     "113806",
     "https://github.com/pytorch/pytorch/issues/113806",
@@ -1094,6 +1088,16 @@
       "linux",
       "mac",
       "macos",
+      "win",
+      "windows",
+      "asan"
+    ]
+  ],
+  "test_make_fx_symbolic_exhaustive_special_bessel_y1_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
+    "107114",
+    "https://github.com/pytorch/pytorch/issues/107114",
+    [
+      "linux",
       "win",
       "windows",
       "asan"
@@ -1507,14 +1511,6 @@
       "mac",
       "rocm",
       "linux"
-    ]
-  ],
-  "test_profiler_experimental_tree_with_memory (__main__.TestProfilerTree)": [
-    "82501",
-    "https://github.com/pytorch/pytorch/issues/82501",
-    [
-      "linux",
-      "rocm"
     ]
   ],
   "test_public_api_surface (__main__.TestFXAPIBackwardCompatibility)": [
