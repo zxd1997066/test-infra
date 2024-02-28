@@ -751,19 +751,6 @@
       "rocm"
     ]
   ],
-  "test_hash_with_numbers (__main__.NoChangeTestCase)": [
-    "119888",
-    "https://github.com/pytorch/pytorch/issues/119888",
-    [
-      "<fill this in or delete. valid labels are: asan",
-      "linux",
-      "mac",
-      "macos",
-      "rocm",
-      "win",
-      "windows.>"
-    ]
-  ],
   "test_hf_bert_ddp_inductor (__main__.TestFakeDistributedSingleProc)": [
     "89763",
     "https://github.com/pytorch/pytorch/issues/89763",
@@ -1524,13 +1511,6 @@
       "rocm",
       "win",
       "windows"
-    ]
-  ],
-  "test_pynode_destruction_deadlock (__main__.TestAutograd)": [
-    "119886",
-    "https://github.com/pytorch/pytorch/issues/119886",
-    [
-      "rocm"
     ]
   ],
   "test_python_ir_utils (__main__.TestJit)": [
