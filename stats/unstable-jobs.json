@@ -1,4 +1,12 @@
 {
+  "inductor / linux-jammy-cpu-py3.8-gcc11-inductor / test": [
+    "huydhn",
+    "120835",
+    "https://github.com/pytorch/pytorch/issues/120835",
+    "inductor",
+    "linux-jammy-cpu-py3.8-gcc11-inductor",
+    "test"
+  ],
   "periodic / linux-focal-rocm6.0-py3.8 / test (distributed)": [
     "jeffdaily",
     "120032",
@@ -6,5 +14,13 @@
     "periodic",
     "linux-focal-rocm6.0-py3.8",
     "test (distributed)"
+  ],
+  "pull / linux-focal-py3.8-clang10-onnx / test (default)": [
+    "huydhn",
+    "120834",
+    "https://github.com/pytorch/pytorch/issues/120834",
+    "pull",
+    "linux-focal-py3.8-clang10-onnx",
+    "test (default)"
   ]
 }
