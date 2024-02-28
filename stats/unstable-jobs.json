@@ -7,6 +7,14 @@
     "cuda12.1-py3.10-gcc9-sm80",
     "test"
   ],
+  "inductor / cuda12.1-py3.10-gcc9-sm86 / test": [
+    "huydhn",
+    "120841",
+    "https://github.com/pytorch/pytorch/issues/120841",
+    "inductor",
+    "cuda12.1-py3.10-gcc9-sm86",
+    "test"
+  ],
   "inductor / linux-jammy-cpu-py3.8-gcc11-inductor / test": [
     "huydhn",
     "120835",
