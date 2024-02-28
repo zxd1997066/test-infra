@@ -1443,6 +1443,13 @@
       "dynamo"
     ]
   ],
+  "test_parallel_cow_materialize_error_cpu_bool (__main__.TestTorchDeviceTypeCPU)": [
+    "120808",
+    "https://github.com/pytorch/pytorch/issues/120808",
+    [
+      "dynamo"
+    ]
+  ],
   "test_pickle_nn_RNN_eval_mode_cuda_float64 (__main__.TestModuleCUDA)": [
     "94541",
     "https://github.com/pytorch/pytorch/issues/94541",
@@ -1498,6 +1505,14 @@
       "mac",
       "rocm",
       "linux"
+    ]
+  ],
+  "test_profiler_experimental_tree_with_memory (__main__.TestProfilerTree)": [
+    "82501",
+    "https://github.com/pytorch/pytorch/issues/82501",
+    [
+      "linux",
+      "rocm"
     ]
   ],
   "test_public_api_surface (__main__.TestFXAPIBackwardCompatibility)": [
