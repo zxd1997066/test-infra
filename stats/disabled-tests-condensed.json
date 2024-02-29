@@ -1167,6 +1167,13 @@
       "win"
     ]
   ],
+  "test_memory_format_nn_ConvTranspose1d_cuda_complex32 (__main__.TestModuleCUDA)": [
+    "107426",
+    "https://github.com/pytorch/pytorch/issues/107426",
+    [
+      "linux"
+    ]
+  ],
   "test_memory_format_nn_ConvTranspose2d_cuda_complex32 (__main__.TestModuleCUDA)": [
     "95172",
     "https://github.com/pytorch/pytorch/issues/95172",
@@ -1875,13 +1882,6 @@
       "linux"
     ]
   ],
-  "test_super_resolution_cuda (__main__.TestModels)": [
-    "105332",
-    "https://github.com/pytorch/pytorch/issues/105332",
-    [
-      "linux"
-    ]
-  ],
   "test_switch_inputs_to_inplace (jit.test_freezing.TestMKLDNNReinplacing)": [
     "91488",
     "https://github.com/pytorch/pytorch/issues/91488",
@@ -2020,6 +2020,14 @@
     "https://github.com/pytorch/pytorch/issues/105119",
     [
       "rocm"
+    ]
+  ],
+  "test_unwrap_storage_didnt_work_repro_cuda (__main__.TestInductorDynamicCUDA)": [
+    "119231",
+    "https://github.com/pytorch/pytorch/issues/119231",
+    [
+      "linux",
+      "slow"
     ]
   ],
   "test_variant_consistency_eager_nn_functional_conv3d_cuda_complex64 (__main__.TestCommonCUDA)": [
