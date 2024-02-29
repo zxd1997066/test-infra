@@ -499,6 +499,20 @@
       "dynamo"
     ]
   ],
+  "test_dispatch_meta_outplace_nn_functional_scaled_dot_product_attention_cuda_float32 (__main__.TestMetaCUDA)": [
+    "120922",
+    "https://github.com/pytorch/pytorch/issues/120922",
+    [
+      "rocm"
+    ]
+  ],
+  "test_dispatch_symbolic_meta_outplace_all_strides_nn_functional_scaled_dot_product_attention_cuda_float32 (__main__.TestMetaCUDA)": [
+    "120921",
+    "https://github.com/pytorch/pytorch/issues/120921",
+    [
+      "rocm"
+    ]
+  ],
   "test_distributed_checkpoint_state_dict_type0 (__main__.TestDistributedCheckpoint)": [
     "113937",
     "https://github.com/pytorch/pytorch/issues/113937",
