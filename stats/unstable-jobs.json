@@ -1,28 +1,4 @@
 {
-  "inductor / cuda12.1-py3.10-gcc9-sm80 / test": [
-    "atalman",
-    "108958",
-    "https://github.com/pytorch/pytorch/issues/108958",
-    "inductor",
-    "cuda12.1-py3.10-gcc9-sm80",
-    "test"
-  ],
-  "inductor / cuda12.1-py3.10-gcc9-sm86 / test": [
-    "huydhn",
-    "120841",
-    "https://github.com/pytorch/pytorch/issues/120841",
-    "inductor",
-    "cuda12.1-py3.10-gcc9-sm86",
-    "test"
-  ],
-  "inductor / linux-jammy-cpu-py3.8-gcc11-inductor / test": [
-    "huydhn",
-    "120835",
-    "https://github.com/pytorch/pytorch/issues/120835",
-    "inductor",
-    "linux-jammy-cpu-py3.8-gcc11-inductor",
-    "test"
-  ],
   "periodic / linux-focal-rocm6.0-py3.8 / test (distributed)": [
     "jeffdaily",
     "120032",
@@ -30,13 +6,5 @@
     "periodic",
     "linux-focal-rocm6.0-py3.8",
     "test (distributed)"
-  ],
-  "pull / linux-focal-py3.8-clang10-onnx / test (default)": [
-    "huydhn",
-    "120834",
-    "https://github.com/pytorch/pytorch/issues/120834",
-    "pull",
-    "linux-focal-py3.8-clang10-onnx",
-    "test (default)"
   ]
 }
