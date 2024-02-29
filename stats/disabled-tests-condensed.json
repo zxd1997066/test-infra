@@ -750,13 +750,6 @@
       "win"
     ]
   ],
-  "test_index (__main__.TestPythonBuiltinOP)": [
-    "119160",
-    "https://github.com/pytorch/pytorch/issues/119160",
-    [
-      "dynamo"
-    ]
-  ],
   "test_index_add_correctness (__main__.TestTorch)": [
     "91184",
     "https://github.com/pytorch/pytorch/issues/91184",
