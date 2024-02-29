@@ -1476,6 +1476,13 @@
       "macos"
     ]
   ],
+  "test_raise_comms (__main__.TestComputeCommReorderingMultiProc)": [
+    "120946",
+    "https://github.com/pytorch/pytorch/issues/120946",
+    [
+      "rocm"
+    ]
+  ],
   "test_raises_mesh_dim_less_than_2 (__main__.TestDeviceMeshGetItem)": [
     "110026",
     "https://github.com/pytorch/pytorch/issues/110026",
@@ -1875,6 +1882,13 @@
   "test_tp_transform_with_uncovered_op (__main__.TensorParallelTest)": [
     "115784",
     "https://github.com/pytorch/pytorch/issues/115784",
+    [
+      "rocm"
+    ]
+  ],
+  "test_tp_transform_with_uncovered_op_use_native_funcol_False (__main__.TensorParallelTest)": [
+    "120947",
+    "https://github.com/pytorch/pytorch/issues/120947",
     [
       "rocm"
     ]
