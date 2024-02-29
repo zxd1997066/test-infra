@@ -20,13 +20,6 @@
       "rocm"
     ]
   ],
-  "test_add_triggers_wait (__main__.TestOpWaitiness)": [
-    "120302",
-    "https://github.com/pytorch/pytorch/issues/120302",
-    [
-      "linux"
-    ]
-  ],
   "test_addcdiv_cuda_complex128 (__main__.TestTorchDeviceTypeCUDA)": [
     "119515",
     "https://github.com/pytorch/pytorch/issues/119515",
@@ -445,21 +438,6 @@
     "https://github.com/pytorch/pytorch/issues/77342",
     [
       "linux"
-    ]
-  ],
-  "test_dead_wrapper_plus_view (__main__.TestOpWaitiness)": [
-    "120325",
-    "https://github.com/pytorch/pytorch/issues/120325",
-    [
-      "linux"
-    ]
-  ],
-  "test_dead_wrapper_triggers_wait (__main__.TestOpWaitiness)": [
-    "120405",
-    "https://github.com/pytorch/pytorch/issues/120405",
-    [
-      "linux",
-      "rocm"
     ]
   ],
   "test_decoder_padding_and_src_mask_bool_cpu (__main__.TestTransformersCPU)": [
@@ -1547,14 +1525,6 @@
       "linux"
     ]
   ],
-  "test_reduce_scatter_tensor_device_cpu_use_native_funcol_True (__main__.TestTraceableCollectives)": [
-    "120421",
-    "https://github.com/pytorch/pytorch/issues/120421",
-    [
-      "linux",
-      "rocm"
-    ]
-  ],
   "test_reduce_scatter_uneven (__main__.DeviceMeshCollectiveTest)": [
     "98024",
     "https://github.com/pytorch/pytorch/issues/98024",
@@ -2030,13 +2000,6 @@
       "linux"
     ]
   ],
-  "test_view_does_not_trigger_wait (__main__.TestOpWaitiness)": [
-    "120440",
-    "https://github.com/pytorch/pytorch/issues/120440",
-    [
-      "linux"
-    ]
-  ],
   "test_vit_aten_export (__main__.TestQuantizePT2EModels)": [
     "113506",
     "https://github.com/pytorch/pytorch/issues/113506",
@@ -2128,13 +2091,6 @@
   "test_wait_i_6 (__main__.TestMultiThreadedWait)": [
     "107425",
     "https://github.com/pytorch/pytorch/issues/107425",
-    [
-      "linux"
-    ]
-  ],
-  "test_wait_reduce_outstanding_work_count (__main__.TestOpWaitiness)": [
-    "120467",
-    "https://github.com/pytorch/pytorch/issues/120467",
     [
       "linux"
     ]
