@@ -371,36 +371,6 @@
       "rocm"
     ]
   ],
-  "test_cow_input_nn_functional_binary_cross_entropy_cuda_float32 (__main__.TestCompositeComplianceCUDA)": [
-    "120783",
-    "https://github.com/pytorch/pytorch/issues/120783",
-    [
-      "linux"
-    ]
-  ],
-  "test_cow_input_nn_functional_celu_cuda_float32 (__main__.TestCompositeComplianceCUDA)": [
-    "120784",
-    "https://github.com/pytorch/pytorch/issues/120784",
-    [
-      "linux",
-      "inductor"
-    ]
-  ],
-  "test_cow_input_nn_functional_conv_transpose2d_cuda_float32 (__main__.TestCompositeComplianceCUDA)": [
-    "120789",
-    "https://github.com/pytorch/pytorch/issues/120789",
-    [
-      "linux"
-    ]
-  ],
-  "test_cow_input_nn_functional_nll_loss_cuda_float32 (__main__.TestCompositeComplianceCUDA)": [
-    "120782",
-    "https://github.com/pytorch/pytorch/issues/120782",
-    [
-      "inductor",
-      "linux"
-    ]
-  ],
   "test_cpp_frontend_module_has_same_output_as_python (__main__.TestCppExtensionJIT)": [
     "116105",
     "https://github.com/pytorch/pytorch/issues/116105",
@@ -1441,27 +1411,6 @@
     "https://github.com/pytorch/pytorch/issues/118804",
     [
       "linux"
-    ]
-  ],
-  "test_parallel_cow_materialize_error_cpu_bfloat16 (__main__.TestTorchDeviceTypeCPU)": [
-    "120785",
-    "https://github.com/pytorch/pytorch/issues/120785",
-    [
-      "dynamo"
-    ]
-  ],
-  "test_parallel_cow_materialize_error_cpu_bool (__main__.TestTorchDeviceTypeCPU)": [
-    "120808",
-    "https://github.com/pytorch/pytorch/issues/120808",
-    [
-      "dynamo"
-    ]
-  ],
-  "test_parallel_cow_materialize_error_cpu_complex128 (__main__.TestTorchDeviceTypeCPU)": [
-    "120865",
-    "https://github.com/pytorch/pytorch/issues/120865",
-    [
-      "dynamo"
     ]
   ],
   "test_pickle_nn_RNN_eval_mode_cuda_float64 (__main__.TestModuleCUDA)": [
