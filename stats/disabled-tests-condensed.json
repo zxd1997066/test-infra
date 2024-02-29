@@ -483,6 +483,13 @@
       "rocm"
     ]
   ],
+  "test_dispatch_symbolic_meta_outplace_nn_functional_scaled_dot_product_attention_cuda_float32 (__main__.TestMetaCUDA)": [
+    "120940",
+    "https://github.com/pytorch/pytorch/issues/120940",
+    [
+      "rocm"
+    ]
+  ],
   "test_distributed_checkpoint_state_dict_type0 (__main__.TestDistributedCheckpoint)": [
     "113937",
     "https://github.com/pytorch/pytorch/issues/113937",
@@ -2067,6 +2074,13 @@
     "https://github.com/pytorch/pytorch/issues/86893",
     [
       "linux"
+    ]
+  ],
+  "test_vmapvjp_nn_functional_conv_transpose2d_cuda_float32 (__main__.TestOperatorsCUDA)": [
+    "120939",
+    "https://github.com/pytorch/pytorch/issues/120939",
+    [
+      "rocm"
     ]
   ],
   "test_vmapvjpvjp_linalg_lu_cuda_float32 (__main__.TestOperatorsCUDA)": [
