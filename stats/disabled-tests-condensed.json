@@ -257,13 +257,6 @@
       "rocm"
     ]
   ],
-  "test_complex_half_reference_testing_fft_fft_cuda_complex32 (__main__.TestCommonCUDA)": [
-    "119924",
-    "https://github.com/pytorch/pytorch/issues/119924",
-    [
-      "rocm"
-    ]
-  ],
   "test_complex_half_reference_testing_fft_hfft2_cuda_complex32 (__main__.TestCommonCUDA)": [
     "108743",
     "https://github.com/pytorch/pytorch/issues/108743",
@@ -1446,6 +1439,13 @@
   "test_parallel_cow_materialize_error_cpu_bool (__main__.TestTorchDeviceTypeCPU)": [
     "120808",
     "https://github.com/pytorch/pytorch/issues/120808",
+    [
+      "dynamo"
+    ]
+  ],
+  "test_parallel_cow_materialize_error_cpu_complex128 (__main__.TestTorchDeviceTypeCPU)": [
+    "120865",
+    "https://github.com/pytorch/pytorch/issues/120865",
     [
       "dynamo"
     ]
