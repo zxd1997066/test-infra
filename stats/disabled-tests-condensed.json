@@ -20,6 +20,13 @@
       "rocm"
     ]
   ],
+  "test_add_triggers_wait (__main__.TestOpWaitiness)": [
+    "120302",
+    "https://github.com/pytorch/pytorch/issues/120302",
+    [
+      "linux"
+    ]
+  ],
   "test_addcdiv_cuda_complex128 (__main__.TestTorchDeviceTypeCUDA)": [
     "119515",
     "https://github.com/pytorch/pytorch/issues/119515",
@@ -627,6 +634,13 @@
     "https://github.com/pytorch/pytorch/issues/91467",
     [
       "dynamo"
+    ]
+  ],
+  "test_fully_shard_training_overlap (__main__.TestFullyShardOverlap)": [
+    "120961",
+    "https://github.com/pytorch/pytorch/issues/120961",
+    [
+      "rocm"
     ]
   ],
   "test_gpu_simple (__main__.TensorPipeCudaDistAutogradTest)": [
@@ -1389,6 +1403,13 @@
     "https://github.com/pytorch/pytorch/issues/118804",
     [
       "linux"
+    ]
+  ],
+  "test_param_registration_after_backward (__main__.TestFullyShardRegisteredParams)": [
+    "120962",
+    "https://github.com/pytorch/pytorch/issues/120962",
+    [
+      "rocm"
     ]
   ],
   "test_pickle_nn_RNN_eval_mode_cuda_float64 (__main__.TestModuleCUDA)": [
