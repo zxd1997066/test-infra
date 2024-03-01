@@ -1,4 +1,12 @@
 {
+  "linux-binary-manywheel / manywheel-py3_8-cuda11_8": [
+    "huydhn",
+    "104727",
+    "https://github.com/pytorch/pytorch/issues/104727",
+    "linux-binary-manywheel",
+    "manywheel-py3_8-cuda11_8",
+    ""
+  ],
   "periodic / linux-focal-rocm6.0-py3.8 / test (distributed)": [
     "jeffdaily",
     "120032",
