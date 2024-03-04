@@ -608,13 +608,6 @@
       "rocm"
     ]
   ],
-  "test_forward_mode_AD_linalg_lu_factor_cuda_complex128 (__main__.TestFwdGradientsCUDA)": [
-    "115140",
-    "https://github.com/pytorch/pytorch/issues/115140",
-    [
-      "linux"
-    ]
-  ],
   "test_fs_preserve_sharing (__main__.TestMultiprocessing)": [
     "91467",
     "https://github.com/pytorch/pytorch/issues/91467",
@@ -1097,15 +1090,6 @@
     [
       "win",
       "windows"
-    ]
-  ],
-  "test_make_fx_symbolic_exhaustive_svd_lowrank_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
-    "120121",
-    "https://github.com/pytorch/pytorch/issues/120121",
-    [
-      "linux",
-      "mac",
-      "macos"
     ]
   ],
   "test_mem_get_info (__main__.TestCuda)": [
