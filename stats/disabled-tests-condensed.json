@@ -720,6 +720,13 @@
       "linux"
     ]
   ],
+  "test_impl_invalid_devices (__main__.TestCustomOp)": [
+    "121119",
+    "https://github.com/pytorch/pytorch/issues/121119",
+    [
+      "dynamo"
+    ]
+  ],
   "test_impl_on_existing_op_with_cpu_registration_key_CompositeExplicitAutograd (__main__.TestCustomOp)": [
     "120656",
     "https://github.com/pytorch/pytorch/issues/120656",
