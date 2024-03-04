@@ -1906,6 +1906,13 @@
       "rocm"
     ]
   ],
+  "test_tp_transform_with_uncovered_op_use_native_funcol_True (__main__.TensorParallelTest)": [
+    "121143",
+    "https://github.com/pytorch/pytorch/issues/121143",
+    [
+      "rocm"
+    ]
+  ],
   "test_trace_buffer_slice (__main__.TestFX)": [
     "74208",
     "https://github.com/pytorch/pytorch/issues/74208",
@@ -1921,6 +1928,13 @@
   "test_trace_while_active (__main__.NCCLTraceTest)": [
     "112815",
     "https://github.com/pytorch/pytorch/issues/112815",
+    [
+      "rocm"
+    ]
+  ],
+  "test_train_parity_with_activation_checkpointing (__main__.TestFullyShard1DTrainingCompose)": [
+    "121144",
+    "https://github.com/pytorch/pytorch/issues/121144",
     [
       "rocm"
     ]
