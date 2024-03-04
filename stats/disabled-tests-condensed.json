@@ -1099,6 +1099,13 @@
       "windows"
     ]
   ],
+  "test_max_autotune_remote_caching_dynamic_False (__main__.TestMaxAutotune)": [
+    "121166",
+    "https://github.com/pytorch/pytorch/issues/121166",
+    [
+      "rocm"
+    ]
+  ],
   "test_mem_get_info (__main__.TestCuda)": [
     "103495",
     "https://github.com/pytorch/pytorch/issues/103495",
