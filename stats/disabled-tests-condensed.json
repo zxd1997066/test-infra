@@ -1103,7 +1103,8 @@
     "121166",
     "https://github.com/pytorch/pytorch/issues/121166",
     [
-      "rocm"
+      "rocm",
+      "linux"
     ]
   ],
   "test_mem_get_info (__main__.TestCuda)": [
