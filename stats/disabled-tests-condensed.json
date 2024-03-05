@@ -1415,6 +1415,13 @@
       "rocm"
     ]
   ],
+  "test_param_registration_after_forward (__main__.TestFullyShardRegisteredParams)": [
+    "121233",
+    "https://github.com/pytorch/pytorch/issues/121233",
+    [
+      "rocm"
+    ]
+  ],
   "test_pickle_nn_RNN_eval_mode_cuda_float64 (__main__.TestModuleCUDA)": [
     "94541",
     "https://github.com/pytorch/pytorch/issues/94541",
@@ -1526,6 +1533,13 @@
     "https://github.com/pytorch/pytorch/issues/84937",
     [
       "asan"
+    ]
+  ],
+  "test_record_stream_cuda (__main__.TestRecordStream)": [
+    "121234",
+    "https://github.com/pytorch/pytorch/issues/121234",
+    [
+      "rocm"
     ]
   ],
   "test_record_stream_on_shifted_view (__main__.TestCuda)": [
@@ -1903,13 +1917,6 @@
     "https://github.com/pytorch/pytorch/issues/70546",
     [
       "mac"
-    ]
-  ],
-  "test_timeout_dumps_timing_enabled_False (__main__.NCCLTraceTestDumpOnTimeout)": [
-    "120028",
-    "https://github.com/pytorch/pytorch/issues/120028",
-    [
-      "rocm"
     ]
   ],
   "test_torch_name_rule_map_updated (__main__.TraceRuleTests)": [
