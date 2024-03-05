@@ -615,6 +615,13 @@
       "dynamo"
     ]
   ],
+  "test_fsdp2 (__main__.TestStateDict)": [
+    "121196",
+    "https://github.com/pytorch/pytorch/issues/121196",
+    [
+      "rocm"
+    ]
+  ],
   "test_fully_shard_training_overlap (__main__.TestFullyShardOverlap)": [
     "120961",
     "https://github.com/pytorch/pytorch/issues/120961",
@@ -1107,6 +1114,13 @@
       "linux"
     ]
   ],
+  "test_max_autotune_remote_caching_dynamic_True (__main__.TestMaxAutotune)": [
+    "121194",
+    "https://github.com/pytorch/pytorch/issues/121194",
+    [
+      "rocm"
+    ]
+  ],
   "test_mem_get_info (__main__.TestCuda)": [
     "103495",
     "https://github.com/pytorch/pytorch/issues/103495",
@@ -1556,6 +1570,13 @@
   "test_reorder_compute_for_overlap (__main__.TestComputeCommReorderingMultiProc)": [
     "113249",
     "https://github.com/pytorch/pytorch/issues/113249",
+    [
+      "rocm"
+    ]
+  ],
+  "test_reorder_compute_for_overlap_custom_runtime_estimation (__main__.TestComputeCommReorderingMultiProc)": [
+    "121195",
+    "https://github.com/pytorch/pytorch/issues/121195",
     [
       "rocm"
     ]
