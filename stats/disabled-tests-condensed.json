@@ -1731,6 +1731,13 @@
       "rocm"
     ]
   ],
+  "test_sink_waits (__main__.TestComputeCommReorderingMultiProc)": [
+    "121236",
+    "https://github.com/pytorch/pytorch/issues/121236",
+    [
+      "rocm"
+    ]
+  ],
   "test_source_multithreaded_basic_work_in_main_thread_False (__main__.TestProfiler)": [
     "119346",
     "https://github.com/pytorch/pytorch/issues/119346",
