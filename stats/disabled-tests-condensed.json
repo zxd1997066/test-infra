@@ -1119,7 +1119,9 @@
     "121194",
     "https://github.com/pytorch/pytorch/issues/121194",
     [
-      "rocm"
+      "rocm",
+      "linux",
+      "slow"
     ]
   ],
   "test_mem_get_info (__main__.TestCuda)": [
