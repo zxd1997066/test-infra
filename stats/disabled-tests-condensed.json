@@ -100,6 +100,14 @@
       "windows"
     ]
   ],
+  "test_autograd_function_backed_op (__main__.TestCustomOpWithCompiledAutograd)": [
+    "121342",
+    "https://github.com/pytorch/pytorch/issues/121342",
+    [
+      "mac",
+      "macos"
+    ]
+  ],
   "test_averaged_model_all_devices_ema_False (__main__.TestSWAUtils)": [
     "120372",
     "https://github.com/pytorch/pytorch/issues/120372",
@@ -1727,18 +1735,6 @@
     "https://github.com/pytorch/pytorch/issues/121316",
     [
       "rocm"
-    ]
-  ],
-  "test_source_multithreaded_basic_work_in_main_thread_False (__main__.TestProfiler)": [
-    "119346",
-    "https://github.com/pytorch/pytorch/issues/119346",
-    [
-      "asan",
-      "linux",
-      "mac",
-      "macos",
-      "rocm",
-      "slow"
     ]
   ],
   "test_source_multithreaded_basic_work_in_main_thread_True (__main__.TestProfiler)": [
