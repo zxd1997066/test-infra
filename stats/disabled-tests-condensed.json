@@ -497,6 +497,15 @@
       "dynamo"
     ]
   ],
+  "test_dynamic_stride_nobreak_cuda (__main__.TestInductorDynamicCUDA)": [
+    "117954",
+    "https://github.com/pytorch/pytorch/issues/117954",
+    [
+      "linux",
+      "slow",
+      "rocm"
+    ]
+  ],
   "test_expanded_reduction_cpu (__main__.CpuTests)": [
     "87157",
     "https://github.com/pytorch/pytorch/issues/87157",
@@ -975,13 +984,6 @@
       "asan"
     ]
   ],
-  "test_make_fx_symbolic_exhaustive_out_special_chebyshev_polynomial_u_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
-    "113857",
-    "https://github.com/pytorch/pytorch/issues/113857",
-    [
-      "linux"
-    ]
-  ],
   "test_make_fx_symbolic_exhaustive_special_airy_ai_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
     "107739",
     "https://github.com/pytorch/pytorch/issues/107739",
@@ -1013,16 +1015,6 @@
       "win",
       "windows",
       "asan"
-    ]
-  ],
-  "test_make_fx_symbolic_exhaustive_special_chebyshev_polynomial_t_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
-    "114211",
-    "https://github.com/pytorch/pytorch/issues/114211",
-    [
-      "linux",
-      "asan",
-      "mac",
-      "macos"
     ]
   ],
   "test_make_fx_symbolic_exhaustive_special_chebyshev_polynomial_u_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
