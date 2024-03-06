@@ -1491,6 +1491,13 @@
       "windows"
     ]
   ],
+  "test_pynode_destruction_deadlock (__main__.TestAutograd)": [
+    "119886",
+    "https://github.com/pytorch/pytorch/issues/119886",
+    [
+      "rocm"
+    ]
+  ],
   "test_python_ir_utils (__main__.TestJit)": [
     "73474",
     "https://github.com/pytorch/pytorch/issues/73474",
