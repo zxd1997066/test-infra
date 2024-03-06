@@ -150,6 +150,15 @@
       "mac"
     ]
   ],
+  "test_batch_linear_post_grad_fusion (__main__.TestPostGradBatchLinearFusion)": [
+    "120280",
+    "https://github.com/pytorch/pytorch/issues/120280",
+    [
+      "linux",
+      "rocm",
+      "slow"
+    ]
+  ],
   "test_broadcast_1d (__main__.DeviceMeshCollectiveTest)": [
     "98048",
     "https://github.com/pytorch/pytorch/issues/98048",
