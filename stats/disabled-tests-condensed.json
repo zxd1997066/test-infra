@@ -630,6 +630,13 @@
       "rocm"
     ]
   ],
+  "test_fsdp_aot_eager (__main__.TestMultiProc)": [
+    "121443",
+    "https://github.com/pytorch/pytorch/issues/121443",
+    [
+      "rocm"
+    ]
+  ],
   "test_fully_shard_training_overlap (__main__.TestFullyShardOverlap)": [
     "120961",
     "https://github.com/pytorch/pytorch/issues/120961",
