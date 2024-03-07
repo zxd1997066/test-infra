@@ -1756,18 +1756,6 @@
       "slow"
     ]
   ],
-  "test_source_multithreaded_basic_work_in_main_thread_True (__main__.TestProfiler)": [
-    "119357",
-    "https://github.com/pytorch/pytorch/issues/119357",
-    [
-      "linux",
-      "rocm",
-      "asan",
-      "mac",
-      "macos",
-      "slow"
-    ]
-  ],
   "test_source_multithreaded_close_in_scope_work_in_main_thread_False (__main__.TestProfiler)": [
     "119364",
     "https://github.com/pytorch/pytorch/issues/119364",
