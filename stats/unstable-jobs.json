@@ -6,13 +6,5 @@
     "linux-binary-manywheel",
     "manywheel-py3_8-cuda11_8",
     ""
-  ],
-  "periodic / linux-focal-rocm6.0-py3.8 / test (distributed)": [
-    "jeffdaily",
-    "120032",
-    "https://github.com/pytorch/pytorch/issues/120032",
-    "periodic",
-    "linux-focal-rocm6.0-py3.8",
-    "test (distributed)"
   ]
 }
