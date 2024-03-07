@@ -108,14 +108,6 @@
       "macos"
     ]
   ],
-  "test_averaged_model_all_devices_ema_False (__main__.TestSWAUtils)": [
-    "120372",
-    "https://github.com/pytorch/pytorch/issues/120372",
-    [
-      "win",
-      "windows"
-    ]
-  ],
   "test_backward_ddp_inside (__main__.TensorPipeDdpUnderDistAutogradTest)": [
     "104328",
     "https://github.com/pytorch/pytorch/issues/104328",
