@@ -1688,6 +1688,13 @@
       "mac"
     ]
   ],
+  "test_seq_non_abi_compatible_cpu (__main__.AOTInductorTestNonABICompatibleCpu)": [
+    "121472",
+    "https://github.com/pytorch/pytorch/issues/121472",
+    [
+      "linux"
+    ]
+  ],
   "test_set_gloo_pg_timeout (__main__.ProcessGroupGlooTest)": [
     "115740",
     "https://github.com/pytorch/pytorch/issues/115740",
