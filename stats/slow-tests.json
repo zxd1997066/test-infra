@@ -1,13 +1,13 @@
 {
   "test_aot_export_joint_simple_repro_dynamic_shapes (__main__.DynamicShapesAotAutogradFallbackTests)": 217.00025,
   "test_constructor_autograd_SparseCSC_cuda (__main__.TestSparseAnyCUDA)": 69.2145,
-  "test_ddp_uneven_inputs (__main__.TestDistBackendWithSpawn)": 526.9359999999999,
-  "test_fake_tensor_mode_huggingface_google_t5 (__main__.TORCH_NN_MODULE)": 68.98,
-  "test_memory_format_operators_cuda (__main__.TestTorchDeviceTypeCUDA)": 64.39314285714286,
-  "test_output_match_nn_functional_max_pool2d_cpu_float16 (__main__.TestConsistencyCPU)": 60.69166666666666,
-  "test_retracibility_dict_container_inp_out_dynamic_shapes (__main__.DynamicShapesExportTests)": 238.94200000000004,
-  "test_unary_ops (__main__.TestTEFuserDynamic)": 79.10381818181817,
-  "test_unary_ops (__main__.TestTEFuserStatic)": 62.66404545454546,
+  "test_ddp_uneven_inputs (__main__.TestDistBackendWithSpawn)": 526.936,
+  "test_fake_tensor_mode_huggingface_google_t5 (__main__.TORCH_NN_MODULE)": 68.97999999999999,
+  "test_memory_format_operators_cuda (__main__.TestTorchDeviceTypeCUDA)": 64.39314285714285,
+  "test_output_match_nn_functional_max_pool2d_cpu_float16 (__main__.TestConsistencyCPU)": 60.69166666666667,
+  "test_retracibility_dict_container_inp_out_dynamic_shapes (__main__.DynamicShapesExportTests)": 238.942,
+  "test_unary_ops (__main__.TestTEFuserDynamic)": 79.10381818181818,
+  "test_unary_ops (__main__.TestTEFuserStatic)": 62.66404545454545,
   "test_vmapjvpvjp_linalg_multi_dot_cuda_float32 (__main__.TestOperatorsCUDA)": 69.96,
   "test_vmapjvpvjp_nn_functional_max_pool2d_cuda_float32 (__main__.TestOperatorsCUDA)": 70.151
 }
