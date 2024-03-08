@@ -1692,7 +1692,8 @@
     "121472",
     "https://github.com/pytorch/pytorch/issues/121472",
     [
-      "linux"
+      "linux",
+      "slow"
     ]
   ],
   "test_set_gloo_pg_timeout (__main__.ProcessGroupGlooTest)": [
