@@ -237,13 +237,6 @@
       "linux"
     ]
   ],
-  "test_circular_dependencies (__main__.TestImports)": [
-    "110040",
-    "https://github.com/pytorch/pytorch/issues/110040",
-    [
-      "rocm"
-    ]
-  ],
   "test_compare_cpu__refs_empty_strided_cuda_float32 (__main__.TestCommonCUDA)": [
     "101625",
     "https://github.com/pytorch/pytorch/issues/101625",
@@ -1839,31 +1832,6 @@
     [
       "asan",
       "dynamo",
-      "linux",
-      "mac",
-      "macos",
-      "rocm",
-      "slow"
-    ]
-  ],
-  "test_source_multithreaded_close_in_scope_work_in_main_thread_True (__main__.TestProfiler)": [
-    "119514",
-    "https://github.com/pytorch/pytorch/issues/119514",
-    [
-      "asan",
-      "linux",
-      "mac",
-      "macos",
-      "rocm",
-      "slow"
-    ]
-  ],
-  "test_source_multithreaded_complex_work_in_main_thread_False (__main__.TestProfiler)": [
-    "119490",
-    "https://github.com/pytorch/pytorch/issues/119490",
-    [
-      "dynamo",
-      "asan",
       "linux",
       "mac",
       "macos",
