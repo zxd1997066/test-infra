@@ -159,6 +159,13 @@
       "slow"
     ]
   ],
+  "test_bitwise_cuda_cuda_wrapper (__main__.TestCudaWrapper)": [
+    "121511",
+    "https://github.com/pytorch/pytorch/issues/121511",
+    [
+      "rocm"
+    ]
+  ],
   "test_broadcast_1d (__main__.DeviceMeshCollectiveTest)": [
     "98048",
     "https://github.com/pytorch/pytorch/issues/98048",
@@ -251,6 +258,13 @@
       "linux"
     ]
   ],
+  "test_compiled_fsdp (__main__.TestStateDict)": [
+    "121510",
+    "https://github.com/pytorch/pytorch/issues/121510",
+    [
+      "rocm"
+    ]
+  ],
   "test_complex_half_reference_testing_as_strided_scatter_cuda_complex32 (__main__.TestCommonCUDA)": [
     "78205",
     "https://github.com/pytorch/pytorch/issues/78205",
@@ -323,9 +337,30 @@
       "rocm"
     ]
   ],
+  "test_cond_nested_non_abi_compatible_cuda (__main__.AOTInductorTestNonABICompatibleCuda)": [
+    "121514",
+    "https://github.com/pytorch/pytorch/issues/121514",
+    [
+      "rocm"
+    ]
+  ],
+  "test_cond_simple_abi_compatible_cuda (__main__.AOTInductorTestABICompatibleCuda)": [
+    "121512",
+    "https://github.com/pytorch/pytorch/issues/121512",
+    [
+      "rocm"
+    ]
+  ],
   "test_cond_use_buffers_from_outer_scope_abi_compatible_cuda (__main__.AOTInductorTestABICompatibleCuda)": [
     "121502",
     "https://github.com/pytorch/pytorch/issues/121502",
+    [
+      "rocm"
+    ]
+  ],
+  "test_cond_with_multiple_outputs_non_abi_compatible_cuda (__main__.AOTInductorTestNonABICompatibleCuda)": [
+    "121515",
+    "https://github.com/pytorch/pytorch/issues/121515",
     [
       "rocm"
     ]
@@ -340,6 +375,13 @@
   "test_cond_with_parameters_abi_compatible_cuda (__main__.AOTInductorTestABICompatibleCuda)": [
     "121499",
     "https://github.com/pytorch/pytorch/issues/121499",
+    [
+      "rocm"
+    ]
+  ],
+  "test_cond_with_reinterpret_view_inputs_outputs_abi_compatible_cuda (__main__.AOTInductorTestABICompatibleCuda)": [
+    "121513",
+    "https://github.com/pytorch/pytorch/issues/121513",
     [
       "rocm"
     ]
