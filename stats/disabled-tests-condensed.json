@@ -330,83 +330,6 @@
       "linux"
     ]
   ],
-  "test_cond_nested_abi_compatible_cuda (__main__.AOTInductorTestABICompatibleCuda)": [
-    "121498",
-    "https://github.com/pytorch/pytorch/issues/121498",
-    [
-      "rocm"
-    ]
-  ],
-  "test_cond_nested_non_abi_compatible_cuda (__main__.AOTInductorTestNonABICompatibleCuda)": [
-    "121514",
-    "https://github.com/pytorch/pytorch/issues/121514",
-    [
-      "rocm"
-    ]
-  ],
-  "test_cond_simple_abi_compatible_cuda (__main__.AOTInductorTestABICompatibleCuda)": [
-    "121512",
-    "https://github.com/pytorch/pytorch/issues/121512",
-    [
-      "rocm"
-    ]
-  ],
-  "test_cond_simple_non_abi_compatible_cuda (__main__.AOTInductorTestNonABICompatibleCuda)": [
-    "121533",
-    "https://github.com/pytorch/pytorch/issues/121533",
-    [
-      "rocm"
-    ]
-  ],
-  "test_cond_use_buffers_from_outer_scope_abi_compatible_cuda (__main__.AOTInductorTestABICompatibleCuda)": [
-    "121502",
-    "https://github.com/pytorch/pytorch/issues/121502",
-    [
-      "rocm"
-    ]
-  ],
-  "test_cond_use_buffers_from_outer_scope_non_abi_compatible_cuda (__main__.AOTInductorTestNonABICompatibleCuda)": [
-    "121531",
-    "https://github.com/pytorch/pytorch/issues/121531",
-    [
-      "rocm"
-    ]
-  ],
-  "test_cond_with_multiple_outputs_abi_compatible_cuda (__main__.AOTInductorTestABICompatibleCuda)": [
-    "121532",
-    "https://github.com/pytorch/pytorch/issues/121532",
-    [
-      "rocm"
-    ]
-  ],
-  "test_cond_with_multiple_outputs_non_abi_compatible_cuda (__main__.AOTInductorTestNonABICompatibleCuda)": [
-    "121515",
-    "https://github.com/pytorch/pytorch/issues/121515",
-    [
-      "rocm"
-    ]
-  ],
-  "test_cond_with_outer_code_before_after_abi_compatible_cuda (__main__.AOTInductorTestABICompatibleCuda)": [
-    "121500",
-    "https://github.com/pytorch/pytorch/issues/121500",
-    [
-      "rocm"
-    ]
-  ],
-  "test_cond_with_parameters_abi_compatible_cuda (__main__.AOTInductorTestABICompatibleCuda)": [
-    "121499",
-    "https://github.com/pytorch/pytorch/issues/121499",
-    [
-      "rocm"
-    ]
-  ],
-  "test_cond_with_reinterpret_view_inputs_outputs_abi_compatible_cuda (__main__.AOTInductorTestABICompatibleCuda)": [
-    "121513",
-    "https://github.com/pytorch/pytorch/issues/121513",
-    [
-      "rocm"
-    ]
-  ],
   "test_conv (quantization.jit.test_quantize_jit.TestQuantizeJit)": [
     "105125",
     "https://github.com/pytorch/pytorch/issues/105125",
@@ -1427,6 +1350,13 @@
       "dynamo",
       "mac",
       "macos"
+    ]
+  ],
+  "test_optional_list (test_jit.TestScript)": [
+    "91484",
+    "https://github.com/pytorch/pytorch/issues/91484",
+    [
+      "linux"
     ]
   ],
   "test_optional_tensor (test_jit.TestScript)": [
