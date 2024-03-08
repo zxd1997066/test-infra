@@ -529,19 +529,6 @@
       "linux"
     ]
   ],
-  "test_external_module_register (__main__.TestExtensionUtils)": [
-    "120456",
-    "https://github.com/pytorch/pytorch/issues/120456",
-    [
-      "linux",
-      "win",
-      "windows",
-      "asan",
-      "mac",
-      "macos",
-      "rocm"
-    ]
-  ],
   "test_extract_gradients_from_optimizer_set_to_none (__main__.TestIdentifyGradients)": [
     "88721",
     "https://github.com/pytorch/pytorch/issues/88721",
@@ -1449,6 +1436,19 @@
     [
       "linux",
       "rocm"
+    ]
+  ],
+  "test_public_api_surface (__main__.TestFXAPIBackwardCompatibility)": [
+    "104012",
+    "https://github.com/pytorch/pytorch/issues/104012",
+    [
+      "asan",
+      "linux",
+      "mac",
+      "macos",
+      "rocm",
+      "win",
+      "windows"
     ]
   ],
   "test_pynode_destruction_deadlock (__main__.TestAutograd)": [
