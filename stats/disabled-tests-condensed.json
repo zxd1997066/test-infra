@@ -1486,6 +1486,13 @@
       "rocm"
     ]
   ],
+  "test_pynode_destruction_deadlock (__main__.TestAutogradWithCompiledAutograd)": [
+    "121576",
+    "https://github.com/pytorch/pytorch/issues/121576",
+    [
+      "asan"
+    ]
+  ],
   "test_python_ir_utils (__main__.TestJit)": [
     "73474",
     "https://github.com/pytorch/pytorch/issues/73474",
