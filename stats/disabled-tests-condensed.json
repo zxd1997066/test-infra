@@ -166,6 +166,13 @@
       "rocm"
     ]
   ],
+  "test_bitwise_cuda_dynamic_shapes_cuda_wrapper (__main__.DynamicShapesCudaWrapperCudaTests)": [
+    "116044",
+    "https://github.com/pytorch/pytorch/issues/116044",
+    [
+      "rocm"
+    ]
+  ],
   "test_broadcast_1d (__main__.DeviceMeshCollectiveTest)": [
     "98048",
     "https://github.com/pytorch/pytorch/issues/98048",
@@ -235,6 +242,13 @@
     "https://github.com/pytorch/pytorch/issues/100074",
     [
       "linux"
+    ]
+  ],
+  "test_circular_dependencies (__main__.TestImports)": [
+    "110040",
+    "https://github.com/pytorch/pytorch/issues/110040",
+    [
+      "rocm"
     ]
   ],
   "test_compare_cpu__batch_norm_with_update_cuda_float32 (__main__.TestCommonCUDA)": [
