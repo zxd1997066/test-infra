@@ -1,12 +1,4 @@
 {
-  "linux-binary-manywheel / manywheel-py3_8-cuda11_8": [
-    "huydhn",
-    "104727",
-    "https://github.com/pytorch/pytorch/issues/104727",
-    "linux-binary-manywheel",
-    "manywheel-py3_8-cuda11_8",
-    ""
-  ],
   "pull / linux-focal-py3_8-clang9-xla / test (xla)": [
     "clee2000",
     "113251",
