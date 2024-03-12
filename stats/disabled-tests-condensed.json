@@ -321,15 +321,6 @@
       "linux"
     ]
   ],
-  "test_comprehensive_nn_functional_nll_loss_cuda_float32 (__main__.TestDecompCUDA)": [
-    "117732",
-    "https://github.com/pytorch/pytorch/issues/117732",
-    [
-      "rocm",
-      "win",
-      "windows"
-    ]
-  ],
   "test_compute_local_shape_and_global_offset_1D (__main__.UtilTest)": [
     "109379",
     "https://github.com/pytorch/pytorch/issues/109379",
@@ -903,13 +894,6 @@
       "rocm"
     ]
   ],
-  "test_is_isnot (__main__.TestScript)": [
-    "120694",
-    "https://github.com/pytorch/pytorch/issues/120694",
-    [
-      "dynamo"
-    ]
-  ],
   "test_jvpvjp_nn_functional_conv3d_cuda_float32 (__main__.TestOperatorsCUDA)": [
     "114654",
     "https://github.com/pytorch/pytorch/issues/114654",
@@ -1030,14 +1014,6 @@
       "win",
       "windows",
       "asan"
-    ]
-  ],
-  "test_make_fx_symbolic_exhaustive_special_modified_bessel_i1_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
-    "119488",
-    "https://github.com/pytorch/pytorch/issues/119488",
-    [
-      "win",
-      "windows"
     ]
   ],
   "test_max_autotune_remote_caching_dynamic_False (__main__.TestMaxAutotune)": [
