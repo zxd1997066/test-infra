@@ -62,13 +62,6 @@
       "mac"
     ]
   ],
-  "test_all_to_all_1d (__main__.DeviceMeshCollectiveTest)": [
-    "98875",
-    "https://github.com/pytorch/pytorch/issues/98875",
-    [
-      "linux"
-    ]
-  ],
   "test_all_to_all_1d_use_native_funcol_False (__main__.DeviceMeshCollectiveTest)": [
     "120706",
     "https://github.com/pytorch/pytorch/issues/120706",
@@ -1022,18 +1015,6 @@
       "asan"
     ]
   ],
-  "test_make_fx_symbolic_exhaustive_special_bessel_j0_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
-    "102775",
-    "https://github.com/pytorch/pytorch/issues/102775",
-    [
-      "linux",
-      "mac",
-      "macos",
-      "win",
-      "windows",
-      "asan"
-    ]
-  ],
   "test_make_fx_symbolic_exhaustive_special_bessel_y1_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
     "107114",
     "https://github.com/pytorch/pytorch/issues/107114",
@@ -1833,6 +1814,18 @@
     "https://github.com/pytorch/pytorch/issues/119537",
     [
       "dynamo",
+      "linux",
+      "mac",
+      "macos",
+      "rocm",
+      "slow"
+    ]
+  ],
+  "test_source_multithreaded_open_in_scope_work_in_main_thread_True (__main__.TestProfiler)": [
+    "119668",
+    "https://github.com/pytorch/pytorch/issues/119668",
+    [
+      "asan",
       "linux",
       "mac",
       "macos",
