@@ -1126,13 +1126,6 @@
       "linux"
     ]
   ],
-  "test_mm_batching (__main__.TestScript)": [
-    "119747",
-    "https://github.com/pytorch/pytorch/issues/119747",
-    [
-      "dynamo"
-    ]
-  ],
   "test_mm_triton_kernel_benchmark (__main__.TestKernelBenchmark)": [
     "118346",
     "https://github.com/pytorch/pytorch/issues/118346",
