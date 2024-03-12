@@ -541,6 +541,13 @@
       "rocm"
     ]
   ],
+  "test_duplicate_constant_folding_non_abi_compatible_cuda (__main__.AOTInductorTestNonABICompatibleCuda)": [
+    "121704",
+    "https://github.com/pytorch/pytorch/issues/121704",
+    [
+      "rocm"
+    ]
+  ],
   "test_dynamic_stride_nobreak_cuda (__main__.TestInductorDynamicCUDA)": [
     "117954",
     "https://github.com/pytorch/pytorch/issues/117954",
