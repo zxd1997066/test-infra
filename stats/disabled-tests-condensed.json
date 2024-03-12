@@ -91,6 +91,13 @@
       "macos"
     ]
   ],
+  "test_artificial_grid_cpp_wrapper (__main__.TestTritonHeuristics)": [
+    "121709",
+    "https://github.com/pytorch/pytorch/issues/121709",
+    [
+      "rocm"
+    ]
+  ],
   "test_attn_cuda (__main__.TestMin)": [
     "86710",
     "https://github.com/pytorch/pytorch/issues/86710",
@@ -542,8 +549,8 @@
     ]
   ],
   "test_duplicate_constant_folding_non_abi_compatible_cuda (__main__.AOTInductorTestNonABICompatibleCuda)": [
-    "121704",
-    "https://github.com/pytorch/pytorch/issues/121704",
+    "121708",
+    "https://github.com/pytorch/pytorch/issues/121708",
     [
       "rocm"
     ]
