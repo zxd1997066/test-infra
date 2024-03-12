@@ -251,13 +251,6 @@
       "rocm"
     ]
   ],
-  "test_compare_cpu__batch_norm_with_update_cuda_float32 (__main__.TestCommonCUDA)": [
-    "121549",
-    "https://github.com/pytorch/pytorch/issues/121549",
-    [
-      "rocm"
-    ]
-  ],
   "test_compare_cpu__refs_empty_strided_cuda_float32 (__main__.TestCommonCUDA)": [
     "101625",
     "https://github.com/pytorch/pytorch/issues/101625",
