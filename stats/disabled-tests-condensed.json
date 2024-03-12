@@ -62,6 +62,13 @@
       "mac"
     ]
   ],
+  "test_all_to_all_1d (__main__.DeviceMeshCollectiveTest)": [
+    "98875",
+    "https://github.com/pytorch/pytorch/issues/98875",
+    [
+      "linux"
+    ]
+  ],
   "test_all_to_all_1d_use_native_funcol_False (__main__.DeviceMeshCollectiveTest)": [
     "120706",
     "https://github.com/pytorch/pytorch/issues/120706",
