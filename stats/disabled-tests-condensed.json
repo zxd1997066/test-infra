@@ -98,6 +98,13 @@
       "rocm"
     ]
   ],
+  "test_artificial_zgrid (__main__.TestTritonHeuristics)": [
+    "121732",
+    "https://github.com/pytorch/pytorch/issues/121732",
+    [
+      "rocm"
+    ]
+  ],
   "test_attn_cuda (__main__.TestMin)": [
     "86710",
     "https://github.com/pytorch/pytorch/issues/86710",
