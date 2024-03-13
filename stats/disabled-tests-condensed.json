@@ -123,6 +123,13 @@
       "windows"
     ]
   ],
+  "test_autocast_rnn (__main__.TestCuda)": [
+    "121806",
+    "https://github.com/pytorch/pytorch/issues/121806",
+    [
+      "rocm"
+    ]
+  ],
   "test_autograd_function_backed_op (__main__.TestCustomOpWithCompiledAutograd)": [
     "121342",
     "https://github.com/pytorch/pytorch/issues/121342",
@@ -1022,16 +1029,6 @@
       "asan"
     ]
   ],
-  "test_make_fx_symbolic_exhaustive_special_bessel_y1_cpu_float32 (__main__.TestProxyTensorOpInfoCPU)": [
-    "107114",
-    "https://github.com/pytorch/pytorch/issues/107114",
-    [
-      "linux",
-      "win",
-      "windows",
-      "asan"
-    ]
-  ],
   "test_max_autotune_remote_caching_dynamic_False (__main__.TestMaxAutotune)": [
     "121166",
     "https://github.com/pytorch/pytorch/issues/121166",
@@ -1506,6 +1503,13 @@
   "test_reduce_scatter_contiguous_use_native_funcol_False (__main__.DeviceMeshCollectiveTest)": [
     "121372",
     "https://github.com/pytorch/pytorch/issues/121372",
+    [
+      "linux"
+    ]
+  ],
+  "test_reduce_scatter_tensor_device_cpu_use_native_funcol_False (__main__.TestTraceableCollectives)": [
+    "121805",
+    "https://github.com/pytorch/pytorch/issues/121805",
     [
       "linux"
     ]
