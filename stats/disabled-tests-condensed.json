@@ -76,6 +76,13 @@
       "linux"
     ]
   ],
+  "test_all_to_all_1d_use_native_funcol_True (__main__.DeviceMeshCollectiveTest)": [
+    "121776",
+    "https://github.com/pytorch/pytorch/issues/121776",
+    [
+      "linux"
+    ]
+  ],
   "test_always_alive_values (jit.test_freezing.TestMKLDNNReinplacing)": [
     "91486",
     "https://github.com/pytorch/pytorch/issues/91486",
@@ -765,6 +772,13 @@
   "test_impl_invalid_devices (__main__.TestCustomOp)": [
     "121119",
     "https://github.com/pytorch/pytorch/issues/121119",
+    [
+      "dynamo"
+    ]
+  ],
+  "test_impl_on_existing_op_with_cpu_registration_key_CompositeExplicitAutograd (__main__.TestCustomOp)": [
+    "120656",
+    "https://github.com/pytorch/pytorch/issues/120656",
     [
       "dynamo"
     ]
