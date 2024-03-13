@@ -539,20 +539,6 @@
       "dynamo"
     ]
   ],
-  "test_duplicate_constant_folding_abi_compatible_cuda (__main__.AOTInductorTestABICompatibleCuda)": [
-    "121703",
-    "https://github.com/pytorch/pytorch/issues/121703",
-    [
-      "rocm"
-    ]
-  ],
-  "test_duplicate_constant_folding_non_abi_compatible_cuda (__main__.AOTInductorTestNonABICompatibleCuda)": [
-    "121708",
-    "https://github.com/pytorch/pytorch/issues/121708",
-    [
-      "rocm"
-    ]
-  ],
   "test_dynamic_stride_nobreak_cuda (__main__.TestInductorDynamicCUDA)": [
     "117954",
     "https://github.com/pytorch/pytorch/issues/117954",
