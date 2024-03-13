@@ -102,7 +102,9 @@
     "121709",
     "https://github.com/pytorch/pytorch/issues/121709",
     [
-      "rocm"
+      "rocm",
+      "linux",
+      "slow"
     ]
   ],
   "test_artificial_zgrid (__main__.TestTritonHeuristics)": [
