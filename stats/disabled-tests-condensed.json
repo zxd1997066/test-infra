@@ -1092,13 +1092,6 @@
       "linux"
     ]
   ],
-  "test_meta_device_2d_init (__main__.TestFullyShardMetaDeviceInit)": [
-    "121757",
-    "https://github.com/pytorch/pytorch/issues/121757",
-    [
-      "linux"
-    ]
-  ],
   "test_mm_batching (__main__.TestScript)": [
     "119747",
     "https://github.com/pytorch/pytorch/issues/119747",
