@@ -1402,6 +1402,14 @@
       "linux"
     ]
   ],
+  "test_profiler_experimental_tree_with_memory (__main__.TestProfilerTree)": [
+    "82501",
+    "https://github.com/pytorch/pytorch/issues/82501",
+    [
+      "linux",
+      "rocm"
+    ]
+  ],
   "test_public_api_surface (__main__.TestFXAPIBackwardCompatibility)": [
     "104012",
     "https://github.com/pytorch/pytorch/issues/104012",
@@ -1881,6 +1889,20 @@
     "114831",
     "https://github.com/pytorch/pytorch/issues/114831",
     []
+  ],
+  "test_torch_to (__main__.TestTEFuserDynamic)": [
+    "121875",
+    "https://github.com/pytorch/pytorch/issues/121875",
+    [
+      "dynamo"
+    ]
+  ],
+  "test_torch_to (__main__.TestTEFuserStatic)": [
+    "121876",
+    "https://github.com/pytorch/pytorch/issues/121876",
+    [
+      "dynamo"
+    ]
   ],
   "test_tp_transform_with_uncovered_op (__main__.TensorParallelTest)": [
     "115784",
