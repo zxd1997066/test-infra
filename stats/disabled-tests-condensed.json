@@ -764,6 +764,19 @@
       "linux"
     ]
   ],
+  "test_hparams_bool (__main__.TestTensorBoardSummary)": [
+    "121927",
+    "https://github.com/pytorch/pytorch/issues/121927",
+    [
+      "<fill this in or delete. valid labels are: asan",
+      "linux",
+      "mac",
+      "macos",
+      "rocm",
+      "win",
+      "windows.>"
+    ]
+  ],
   "test_impl_invalid_devices (__main__.TestCustomOp)": [
     "121119",
     "https://github.com/pytorch/pytorch/issues/121119",
