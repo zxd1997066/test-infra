@@ -768,13 +768,8 @@
     "121927",
     "https://github.com/pytorch/pytorch/issues/121927",
     [
-      "<fill this in or delete. valid labels are: asan",
-      "linux",
-      "mac",
       "macos",
-      "rocm",
-      "win",
-      "windows.>"
+      "mac"
     ]
   ],
   "test_impl_invalid_devices (__main__.TestCustomOp)": [
