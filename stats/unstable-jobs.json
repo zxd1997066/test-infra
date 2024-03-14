@@ -1,1 +1,10 @@
-{}
+{
+  "pull / linux-docs / build-docs-python-false": [
+    "huydhn",
+    "111256",
+    "https://github.com/pytorch/pytorch/issues/111256",
+    "pull",
+    "linux-docs",
+    "build-docs-python-false"
+  ]
+}
