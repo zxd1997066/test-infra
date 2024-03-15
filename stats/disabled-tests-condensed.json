@@ -1333,13 +1333,6 @@
       "linux"
     ]
   ],
-  "test_optional_tensor (test_jit.TestScript)": [
-    "91494",
-    "https://github.com/pytorch/pytorch/issues/91494",
-    [
-      "linux"
-    ]
-  ],
   "test_out__chunk_cat_cuda_float32 (__main__.TestCommonCUDA)": [
     "121950",
     "https://github.com/pytorch/pytorch/issues/121950",
