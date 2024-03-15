@@ -1360,6 +1360,13 @@
       "rocm"
     ]
   ],
+  "test_post_localSGD_optimizer_parity_with_hierarchical_sgd_grad_is_view (__main__.TestDistBackendWithSpawn)": [
+    "75139",
+    "https://github.com/pytorch/pytorch/issues/75139",
+    [
+      "rocm"
+    ]
+  ],
   "test_prim_grad_undefined (test_jit.TestScript)": [
     "91493",
     "https://github.com/pytorch/pytorch/issues/91493",
