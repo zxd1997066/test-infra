@@ -20,13 +20,6 @@
       "rocm"
     ]
   ],
-  "test_add_triggers_wait (__main__.TestOpWaitiness)": [
-    "120302",
-    "https://github.com/pytorch/pytorch/issues/120302",
-    [
-      "linux"
-    ]
-  ],
   "test_addcdiv_cuda_complex128 (__main__.TestTorchDeviceTypeCUDA)": [
     "119515",
     "https://github.com/pytorch/pytorch/issues/119515",
@@ -1340,11 +1333,11 @@
       "linux"
     ]
   ],
-  "test_optional_tensor (test_jit.TestScript)": [
-    "91494",
-    "https://github.com/pytorch/pytorch/issues/91494",
+  "test_out__chunk_cat_cuda_float32 (__main__.TestCommonCUDA)": [
+    "121950",
+    "https://github.com/pytorch/pytorch/issues/121950",
     [
-      "linux"
+      "inductor"
     ]
   ],
   "test_output_match_nn_functional_poisson_nll_loss_cpu_int64 (__main__.TORCH_NN_MODULECPU)": [
@@ -1596,6 +1589,13 @@
   "test_scatter_uneven (__main__.DeviceMeshCollectiveTest)": [
     "96282",
     "https://github.com/pytorch/pytorch/issues/96282",
+    [
+      "linux"
+    ]
+  ],
+  "test_scatter_uneven_use_native_funcol_True (__main__.DeviceMeshCollectiveTest)": [
+    "121951",
+    "https://github.com/pytorch/pytorch/issues/121951",
     [
       "linux"
     ]
