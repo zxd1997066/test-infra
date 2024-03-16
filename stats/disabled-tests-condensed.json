@@ -1354,13 +1354,6 @@
       "linux"
     ]
   ],
-  "test_post_localSGD_optimizer_parity_with_hierarchical_sgd (__main__.TestDistBackendWithSpawn)": [
-    "75052",
-    "https://github.com/pytorch/pytorch/issues/75052",
-    [
-      "rocm"
-    ]
-  ],
   "test_post_localSGD_optimizer_parity_with_hierarchical_sgd_grad_is_view (__main__.TestDistBackendWithSpawn)": [
     "75139",
     "https://github.com/pytorch/pytorch/issues/75139",
