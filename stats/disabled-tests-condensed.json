@@ -736,30 +736,6 @@
       "linux"
     ]
   ],
-  "test_hparams_bool (__main__.TestTensorBoardSummary)": [
-    "121927",
-    "https://github.com/pytorch/pytorch/issues/121927",
-    [
-      "macos",
-      "mac"
-    ]
-  ],
-  "test_hparams_number (__main__.TestTensorBoardSummary)": [
-    "121946",
-    "https://github.com/pytorch/pytorch/issues/121946",
-    [
-      "macos",
-      "mac"
-    ]
-  ],
-  "test_hparams_string (__main__.TestTensorBoardSummary)": [
-    "122008",
-    "https://github.com/pytorch/pytorch/issues/122008",
-    [
-      "mac",
-      "macos"
-    ]
-  ],
   "test_impl_invalid_devices (__main__.TestCustomOp)": [
     "121119",
     "https://github.com/pytorch/pytorch/issues/121119",
