@@ -752,6 +752,14 @@
       "mac"
     ]
   ],
+  "test_hparams_string (__main__.TestTensorBoardSummary)": [
+    "122008",
+    "https://github.com/pytorch/pytorch/issues/122008",
+    [
+      "mac",
+      "macos"
+    ]
+  ],
   "test_impl_invalid_devices (__main__.TestCustomOp)": [
     "121119",
     "https://github.com/pytorch/pytorch/issues/121119",
