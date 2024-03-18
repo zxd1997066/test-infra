@@ -1499,6 +1499,13 @@
       "rocm"
     ]
   ],
+  "test_register_functional_op_with_optional (__main__.TestPythonRegistration)": [
+    "117871",
+    "https://github.com/pytorch/pytorch/issues/117871",
+    [
+      "dynamo"
+    ]
+  ],
   "test_remote_timeout_to_here_in_jit (__main__.FaultyJitFaultyAgentRpcTest)": [
     "69178",
     "https://github.com/pytorch/pytorch/issues/69178",
