@@ -962,14 +962,6 @@
       "linux"
     ]
   ],
-  "test_large_sampler_indices (__main__.TestDataLoader)": [
-    "120734",
-    "https://github.com/pytorch/pytorch/issues/120734",
-    [
-      "mac",
-      "macos"
-    ]
-  ],
   "test_large_sampler_indices (__main__.TestDataLoaderPersistentWorkers)": [
     "117784",
     "https://github.com/pytorch/pytorch/issues/117784",
