@@ -513,6 +513,13 @@
       "linux"
     ]
   ],
+  "test_dtypes_torch_ops_aten__efficient_attention_forward_cuda (__main__.TestCommonCUDA)": [
+    "120693",
+    "https://github.com/pytorch/pytorch/issues/120693",
+    [
+      "linux"
+    ]
+  ],
   "test_dunder_round_edgecases_val_2147483647_ndigits_-1 (__main__.TestNonarrayArgs)": [
     "116121",
     "https://github.com/pytorch/pytorch/issues/116121",
@@ -1487,6 +1494,13 @@
   "test_reduction_scratch_buffer_cpp_wrapper_non_persistent_reduction (__main__.MultiKernelTest)": [
     "122162",
     "https://github.com/pytorch/pytorch/issues/122162",
+    [
+      "rocm"
+    ]
+  ],
+  "test_reduction_scratch_buffer_cpp_wrapper_persistent_reduction (__main__.MultiKernelTest)": [
+    "122176",
+    "https://github.com/pytorch/pytorch/issues/122176",
     [
       "rocm"
     ]
