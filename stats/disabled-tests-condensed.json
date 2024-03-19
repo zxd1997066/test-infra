@@ -393,6 +393,27 @@
       "rocm"
     ]
   ],
+  "test_cow_input_transpose_cuda_float32 (__main__.TestCompositeComplianceCUDA)": [
+    "122236",
+    "https://github.com/pytorch/pytorch/issues/122236",
+    [
+      "linux"
+    ]
+  ],
+  "test_cow_input_trapz_cuda_float32 (__main__.TestCompositeComplianceCUDA)": [
+    "122235",
+    "https://github.com/pytorch/pytorch/issues/122235",
+    [
+      "linux"
+    ]
+  ],
+  "test_cow_input_triangular_solve_cuda_float32 (__main__.TestCompositeComplianceCUDA)": [
+    "122237",
+    "https://github.com/pytorch/pytorch/issues/122237",
+    [
+      "inductor"
+    ]
+  ],
   "test_cpp_frontend_module_has_same_output_as_python (__main__.TestCppExtensionJIT)": [
     "116105",
     "https://github.com/pytorch/pytorch/issues/116105",
@@ -565,6 +586,13 @@
     "https://github.com/pytorch/pytorch/issues/107278",
     [
       "linux",
+      "rocm"
+    ]
+  ],
+  "test_flash_atteention_large_bf16_nan_values_cuda (__main__.TestSDPAFailureModesCUDA)": [
+    "122238",
+    "https://github.com/pytorch/pytorch/issues/122238",
+    [
       "rocm"
     ]
   ],
@@ -990,15 +1018,6 @@
     "https://github.com/pytorch/pytorch/issues/80338",
     [
       "linux"
-    ]
-  ],
-  "test_max_autotune_remote_caching_dynamic_False (__main__.TestMaxAutotune)": [
-    "121166",
-    "https://github.com/pytorch/pytorch/issues/121166",
-    [
-      "linux",
-      "rocm",
-      "slow"
     ]
   ],
   "test_max_autotune_remote_caching_dynamic_True (__main__.TestMaxAutotune)": [
