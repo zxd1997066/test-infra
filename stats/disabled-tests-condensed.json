@@ -1484,6 +1484,13 @@
       "rocm"
     ]
   ],
+  "test_reduction_scratch_buffer_cpp_wrapper_non_persistent_reduction (__main__.MultiKernelTest)": [
+    "122162",
+    "https://github.com/pytorch/pytorch/issues/122162",
+    [
+      "rocm"
+    ]
+  ],
   "test_redundant_clone_for_layout_convert_cuda (__main__.FreezingCudaTests)": [
     "107950",
     "https://github.com/pytorch/pytorch/issues/107950",
