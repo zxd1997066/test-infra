@@ -407,6 +407,13 @@
       "linux"
     ]
   ],
+  "test_cow_input_trapezoid_cuda_float32 (__main__.TestCompositeComplianceCUDA)": [
+    "122300",
+    "https://github.com/pytorch/pytorch/issues/122300",
+    [
+      "inductor"
+    ]
+  ],
   "test_cow_input_trapz_cuda_float32 (__main__.TestCompositeComplianceCUDA)": [
     "122235",
     "https://github.com/pytorch/pytorch/issues/122235",
@@ -424,6 +431,13 @@
   "test_cow_input_trunc_cuda_float32 (__main__.TestCompositeComplianceCUDA)": [
     "122275",
     "https://github.com/pytorch/pytorch/issues/122275",
+    [
+      "linux"
+    ]
+  ],
+  "test_cow_input_view_as_complex_cuda_float32 (__main__.TestCompositeComplianceCUDA)": [
+    "122299",
+    "https://github.com/pytorch/pytorch/issues/122299",
     [
       "linux"
     ]
