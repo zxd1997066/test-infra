@@ -419,6 +419,13 @@
       "inductor"
     ]
   ],
+  "test_cow_input_true_divide_cuda_float32 (__main__.TestCompositeComplianceCUDA)": [
+    "122334",
+    "https://github.com/pytorch/pytorch/issues/122334",
+    [
+      "inductor"
+    ]
+  ],
   "test_cow_input_trunc_cuda_float32 (__main__.TestCompositeComplianceCUDA)": [
     "122275",
     "https://github.com/pytorch/pytorch/issues/122275",
