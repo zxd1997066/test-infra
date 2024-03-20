@@ -58,5 +58,11 @@
       "Mergeability check failed for infrastructure reasons.",
       "urllib.error.HTTPError: HTTP Error 403: Forbidden"
     ]
+  },
+  {
+    "name": "llm-retrieval",
+    "captures": [
+      "Could not assume role with user credentials: User: arn:aws:sts::308535385114:assumed-role/gh-ci-github-action-runners-runner-role"
+    ]
   }
 ]
