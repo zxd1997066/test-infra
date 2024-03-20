@@ -1110,6 +1110,13 @@
       "linux"
     ]
   ],
+  "test_mlp_contiguous_relu_compile_cutlass (__main__.SparseSemiStructuredTensorCompileTest)": [
+    "122352",
+    "https://github.com/pytorch/pytorch/issues/122352",
+    [
+      "rocm"
+    ]
+  ],
   "test_mm_batching (__main__.TestScript)": [
     "119747",
     "https://github.com/pytorch/pytorch/issues/119747",
