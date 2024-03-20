@@ -1050,15 +1050,6 @@
       "slow"
     ]
   ],
-  "test_max_autotune_remote_caching_dynamic_True (__main__.TestMaxAutotune)": [
-    "121194",
-    "https://github.com/pytorch/pytorch/issues/121194",
-    [
-      "rocm",
-      "linux",
-      "slow"
-    ]
-  ],
   "test_mem_get_info (__main__.TestCuda)": [
     "103495",
     "https://github.com/pytorch/pytorch/issues/103495",
@@ -1428,6 +1419,14 @@
     [
       "linux",
       "asan"
+    ]
+  ],
+  "test_profiler_experimental_tree_with_record_function (__main__.TestProfilerTree)": [
+    "83246",
+    "https://github.com/pytorch/pytorch/issues/83246",
+    [
+      "linux",
+      "rocm"
     ]
   ],
   "test_public_api_surface (__main__.TestFXAPIBackwardCompatibility)": [
