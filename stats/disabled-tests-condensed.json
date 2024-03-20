@@ -1325,13 +1325,6 @@
       "linux"
     ]
   ],
-  "test_out__chunk_cat_cuda_float32 (__main__.TestCommonCUDA)": [
-    "121950",
-    "https://github.com/pytorch/pytorch/issues/121950",
-    [
-      "inductor"
-    ]
-  ],
   "test_output_match_nn_functional_poisson_nll_loss_cpu_int64 (__main__.TORCH_NN_MODULECPU)": [
     "118804",
     "https://github.com/pytorch/pytorch/issues/118804",
