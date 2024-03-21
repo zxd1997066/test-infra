@@ -1104,6 +1104,13 @@
       "dynamo"
     ]
   ],
+  "test_mm_plus_mm2_cuda_cuda_wrapper (__main__.TestCudaWrapper)": [
+    "122441",
+    "https://github.com/pytorch/pytorch/issues/122441",
+    [
+      "inductor"
+    ]
+  ],
   "test_mm_triton_kernel_benchmark (__main__.TestKernelBenchmark)": [
     "118346",
     "https://github.com/pytorch/pytorch/issues/118346",
