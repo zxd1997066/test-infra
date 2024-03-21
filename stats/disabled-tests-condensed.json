@@ -392,6 +392,13 @@
       "rocm"
     ]
   ],
+  "test_conversions_backend_cutlass_cuda_bfloat16 (__main__.TestSparseSemiStructuredCUDA)": [
+    "122384",
+    "https://github.com/pytorch/pytorch/issues/122384",
+    [
+      "rocm"
+    ]
+  ],
   "test_cow_input_unsafe_chunk_cuda_float32 (__main__.TestCompositeComplianceCUDA)": [
     "122365",
     "https://github.com/pytorch/pytorch/issues/122365",
