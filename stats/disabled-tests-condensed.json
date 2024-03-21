@@ -770,6 +770,13 @@
       "dynamo"
     ]
   ],
+  "test_impl_function (__main__.TestCustomOp)": [
+    "122388",
+    "https://github.com/pytorch/pytorch/issues/122388",
+    [
+      "dynamo"
+    ]
+  ],
   "test_impl_on_existing_op_with_cpu_registration_key_CompositeExplicitAutograd (__main__.TestCustomOp)": [
     "120656",
     "https://github.com/pytorch/pytorch/issues/120656",
@@ -1310,6 +1317,13 @@
   "test_optional_tensor (test_jit.TestScript)": [
     "91494",
     "https://github.com/pytorch/pytorch/issues/91494",
+    [
+      "linux"
+    ]
+  ],
+  "test_output_match_nn_functional_poisson_nll_loss_cpu_int32 (__main__.TORCH_NN_MODULECPU)": [
+    "122389",
+    "https://github.com/pytorch/pytorch/issues/122389",
     [
       "linux"
     ]
