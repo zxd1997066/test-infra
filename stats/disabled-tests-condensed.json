@@ -400,55 +400,6 @@
       "rocm"
     ]
   ],
-  "test_cow_input_transpose_cuda_float32 (__main__.TestCompositeComplianceCUDA)": [
-    "122236",
-    "https://github.com/pytorch/pytorch/issues/122236",
-    [
-      "linux"
-    ]
-  ],
-  "test_cow_input_trapezoid_cuda_float32 (__main__.TestCompositeComplianceCUDA)": [
-    "122300",
-    "https://github.com/pytorch/pytorch/issues/122300",
-    [
-      "inductor"
-    ]
-  ],
-  "test_cow_input_trapz_cuda_float32 (__main__.TestCompositeComplianceCUDA)": [
-    "122235",
-    "https://github.com/pytorch/pytorch/issues/122235",
-    [
-      "linux"
-    ]
-  ],
-  "test_cow_input_triangular_solve_cuda_float32 (__main__.TestCompositeComplianceCUDA)": [
-    "122237",
-    "https://github.com/pytorch/pytorch/issues/122237",
-    [
-      "inductor"
-    ]
-  ],
-  "test_cow_input_true_divide_cuda_float32 (__main__.TestCompositeComplianceCUDA)": [
-    "122334",
-    "https://github.com/pytorch/pytorch/issues/122334",
-    [
-      "inductor"
-    ]
-  ],
-  "test_cow_input_trunc_cuda_float32 (__main__.TestCompositeComplianceCUDA)": [
-    "122275",
-    "https://github.com/pytorch/pytorch/issues/122275",
-    [
-      "linux"
-    ]
-  ],
-  "test_cow_input_view_as_complex_cuda_float32 (__main__.TestCompositeComplianceCUDA)": [
-    "122299",
-    "https://github.com/pytorch/pytorch/issues/122299",
-    [
-      "linux"
-    ]
-  ],
   "test_cpp_frontend_module_has_same_output_as_python (__main__.TestCppExtensionJIT)": [
     "116105",
     "https://github.com/pytorch/pytorch/issues/116105",
