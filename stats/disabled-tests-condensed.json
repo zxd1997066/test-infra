@@ -130,14 +130,6 @@
       "rocm"
     ]
   ],
-  "test_autograd_function_backed_op (__main__.TestCustomOpWithCompiledAutograd)": [
-    "121342",
-    "https://github.com/pytorch/pytorch/issues/121342",
-    [
-      "mac",
-      "macos"
-    ]
-  ],
   "test_backward_ddp_inside (__main__.TensorPipeDdpUnderDistAutogradTest)": [
     "104328",
     "https://github.com/pytorch/pytorch/issues/104328",
@@ -398,6 +390,13 @@
     "https://github.com/pytorch/pytorch/issues/105528",
     [
       "rocm"
+    ]
+  ],
+  "test_cow_input_unsafe_chunk_cuda_float32 (__main__.TestCompositeComplianceCUDA)": [
+    "122365",
+    "https://github.com/pytorch/pytorch/issues/122365",
+    [
+      "inductor"
     ]
   ],
   "test_cpp_frontend_module_has_same_output_as_python (__main__.TestCppExtensionJIT)": [
@@ -755,6 +754,13 @@
     "https://github.com/pytorch/pytorch/issues/105024",
     [
       "linux"
+    ]
+  ],
+  "test_impl_cpu (__main__.TestCustomOp)": [
+    "122366",
+    "https://github.com/pytorch/pytorch/issues/122366",
+    [
+      "dynamo"
     ]
   ],
   "test_impl_on_existing_op_with_cpu_registration_key_CompositeExplicitAutograd (__main__.TestCustomOp)": [
@@ -1542,6 +1548,13 @@
       "dynamo"
     ]
   ],
+  "test_relu_cuda_dynamic_shapes_cuda_wrapper (__main__.DynamicShapesCudaWrapperCudaTests)": [
+    "122364",
+    "https://github.com/pytorch/pytorch/issues/122364",
+    [
+      "rocm"
+    ]
+  ],
   "test_remote_timeout_to_here_in_jit (__main__.FaultyJitFaultyAgentRpcTest)": [
     "69178",
     "https://github.com/pytorch/pytorch/issues/69178",
@@ -2056,6 +2069,13 @@
   "test_variant_consistency_jit_linalg_lu_cuda_float32 (__main__.TestJitCUDA)": [
     "86711",
     "https://github.com/pytorch/pytorch/issues/86711",
+    [
+      "linux"
+    ]
+  ],
+  "test_variant_consistency_jit_linalg_lu_factor_cuda_complex64 (__main__.TestJitCUDA)": [
+    "86732",
+    "https://github.com/pytorch/pytorch/issues/86732",
     [
       "linux"
     ]
