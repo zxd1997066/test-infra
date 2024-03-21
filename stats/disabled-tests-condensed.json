@@ -392,13 +392,6 @@
       "rocm"
     ]
   ],
-  "test_conversions_backend_cutlass_cuda_bfloat16 (__main__.TestSparseSemiStructuredCUDA)": [
-    "122384",
-    "https://github.com/pytorch/pytorch/issues/122384",
-    [
-      "rocm"
-    ]
-  ],
   "test_cpp_frontend_module_has_same_output_as_python (__main__.TestCppExtensionJIT)": [
     "116105",
     "https://github.com/pytorch/pytorch/issues/116105",
