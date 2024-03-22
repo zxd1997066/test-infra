@@ -1454,19 +1454,6 @@
       "rocm"
     ]
   ],
-  "test_public_api_surface (__main__.TestFXAPIBackwardCompatibility)": [
-    "104012",
-    "https://github.com/pytorch/pytorch/issues/104012",
-    [
-      "asan",
-      "linux",
-      "mac",
-      "macos",
-      "rocm",
-      "win",
-      "windows"
-    ]
-  ],
   "test_pynode_destruction_deadlock (__main__.TestAutogradWithCompiledAutograd)": [
     "121576",
     "https://github.com/pytorch/pytorch/issues/121576",
