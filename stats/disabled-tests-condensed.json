@@ -1627,6 +1627,13 @@
       "linux"
     ]
   ],
+  "test_resnet18 (__main__.TORCH_NN_MODULE)": [
+    "122491",
+    "https://github.com/pytorch/pytorch/issues/122491",
+    [
+      "linux"
+    ]
+  ],
   "test_retracibility_dynamic_shapes (__main__.DynamicShapesExportTests)": [
     "117914",
     "https://github.com/pytorch/pytorch/issues/117914",
@@ -1737,14 +1744,6 @@
     "https://github.com/pytorch/pytorch/issues/71195",
     [
       "mac"
-    ]
-  ],
-  "test_seq_non_abi_compatible_cpu (__main__.AOTInductorTestNonABICompatibleCpu)": [
-    "121472",
-    "https://github.com/pytorch/pytorch/issues/121472",
-    [
-      "linux",
-      "slow"
     ]
   ],
   "test_set_gloo_pg_timeout (__main__.ProcessGroupGlooTest)": [
@@ -1878,6 +1877,18 @@
       "macos",
       "rocm",
       "asan",
+      "slow"
+    ]
+  ],
+  "test_source_multithreaded_open_in_scope_work_in_main_thread_False (__main__.TestProfiler)": [
+    "119537",
+    "https://github.com/pytorch/pytorch/issues/119537",
+    [
+      "dynamo",
+      "linux",
+      "mac",
+      "macos",
+      "rocm",
       "slow"
     ]
   ],
