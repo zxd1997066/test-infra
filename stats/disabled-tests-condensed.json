@@ -34,13 +34,6 @@
       "inductor"
     ]
   ],
-  "test_addmm (__main__.ComputeBoundedTests)": [
-    "115022",
-    "https://github.com/pytorch/pytorch/issues/115022",
-    [
-      "rocm"
-    ]
-  ],
   "test_all_gather_uneven (__main__.DeviceMeshCollectiveTest)": [
     "98049",
     "https://github.com/pytorch/pytorch/issues/98049",
@@ -431,6 +424,14 @@
     [
       "linux",
       "rocm",
+      "slow"
+    ]
+  ],
+  "test_cuda_graph_error_options (__main__.TestCuda)": [
+    "122499",
+    "https://github.com/pytorch/pytorch/issues/122499",
+    [
+      "linux",
       "slow"
     ]
   ],
@@ -2063,14 +2064,6 @@
     "https://github.com/pytorch/pytorch/issues/118652",
     [
       "rocm"
-    ]
-  ],
-  "test_type_promotion__foreach_sub (__main__.ForeachTests)": [
-    "110610",
-    "https://github.com/pytorch/pytorch/issues/110610",
-    [
-      "linux",
-      "slow"
     ]
   ],
   "test_unary_ops (__main__.TestTensorExprFuser)": [
