@@ -724,6 +724,13 @@
       "linux"
     ]
   ],
+  "test_graph_capture_oom (__main__.TestCuda)": [
+    "122614",
+    "https://github.com/pytorch/pytorch/issues/122614",
+    [
+      "linux"
+    ]
+  ],
   "test_graph_concurrent_replay (__main__.TestCuda)": [
     "104055",
     "https://github.com/pytorch/pytorch/issues/104055",
@@ -1797,6 +1804,18 @@
       "slow"
     ]
   ],
+  "test_source_multithreaded_close_in_scope_work_in_main_thread_True (__main__.TestProfiler)": [
+    "119514",
+    "https://github.com/pytorch/pytorch/issues/119514",
+    [
+      "asan",
+      "linux",
+      "mac",
+      "macos",
+      "rocm",
+      "slow"
+    ]
+  ],
   "test_source_multithreaded_complex_work_in_main_thread_False (__main__.TestProfiler)": [
     "119490",
     "https://github.com/pytorch/pytorch/issues/119490",
@@ -1821,18 +1840,6 @@
       "rocm",
       "slow",
       "asan"
-    ]
-  ],
-  "test_source_multithreaded_multiple_preexisting_work_in_main_thread_True (__main__.TestProfiler)": [
-    "119576",
-    "https://github.com/pytorch/pytorch/issues/119576",
-    [
-      "linux",
-      "mac",
-      "macos",
-      "rocm",
-      "asan",
-      "slow"
     ]
   ],
   "test_source_multithreaded_open_in_scope_work_in_main_thread_False (__main__.TestProfiler)": [
