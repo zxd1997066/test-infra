@@ -449,13 +449,6 @@
       "rocm"
     ]
   ],
-  "test_custom_op_cuda (__main__.CudaTests)": [
-    "104856",
-    "https://github.com/pytorch/pytorch/issues/104856",
-    [
-      "inductor"
-    ]
-  ],
   "test_ddp_apply_optim_in_backward_ignored_params (__main__.TestDistBackendWithSpawn)": [
     "106361",
     "https://github.com/pytorch/pytorch/issues/106361",
