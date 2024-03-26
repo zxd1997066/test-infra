@@ -315,6 +315,13 @@
       "inductor"
     ]
   ],
+  "test_comprehensive_fft_fft_cuda_float64 (__main__.TestInductorOpInfoCUDA)": [
+    "122715",
+    "https://github.com/pytorch/pytorch/issues/122715",
+    [
+      "inductor"
+    ]
+  ],
   "test_comprehensive_linalg_ldl_factor_ex_cuda (__main__.TestDecompCUDA)": [
     "76962",
     "https://github.com/pytorch/pytorch/issues/76962",
