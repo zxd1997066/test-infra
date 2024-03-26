@@ -933,13 +933,6 @@
       "rocm"
     ]
   ],
-  "test_is_isnot (__main__.TestScript)": [
-    "120694",
-    "https://github.com/pytorch/pytorch/issues/120694",
-    [
-      "dynamo"
-    ]
-  ],
   "test_itertools_accumulate_tensors_user_defined (__main__.MiscTests)": [
     "121941",
     "https://github.com/pytorch/pytorch/issues/121941",
