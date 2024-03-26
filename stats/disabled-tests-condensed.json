@@ -2163,6 +2163,13 @@
       "linux"
     ]
   ],
+  "test_vmapjvpall_linalg_lu_factor_ex_cuda_float32 (__main__.TestOperatorsCUDA)": [
+    "122698",
+    "https://github.com/pytorch/pytorch/issues/122698",
+    [
+      "linux"
+    ]
+  ],
   "test_vmapjvpvjp_linalg_lu_cuda_float32 (__main__.TestOperatorsCUDA)": [
     "86733",
     "https://github.com/pytorch/pytorch/issues/86733",
