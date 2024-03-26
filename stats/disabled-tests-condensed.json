@@ -957,13 +957,6 @@
       "windows"
     ]
   ],
-  "test_kineto_profiler_with_environment_variable (__main__.TestProfiler)": [
-    "107383",
-    "https://github.com/pytorch/pytorch/issues/107383",
-    [
-      "rocm"
-    ]
-  ],
   "test_large_block_sizes_cpu (__main__.CpuTests)": [
     "113139",
     "https://github.com/pytorch/pytorch/issues/113139",
@@ -1011,14 +1004,6 @@
     "https://github.com/pytorch/pytorch/issues/113134",
     [
       "linux"
-    ]
-  ],
-  "test_large_sampler_indices (__main__.TestDataLoaderPersistentWorkers)": [
-    "117784",
-    "https://github.com/pytorch/pytorch/issues/117784",
-    [
-      "mac",
-      "macos"
     ]
   ],
   "test_lazy_init (__main__.TestCuda)": [
