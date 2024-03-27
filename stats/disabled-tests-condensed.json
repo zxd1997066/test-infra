@@ -1500,13 +1500,6 @@
       "linux"
     ]
   ],
-  "test_reduce_scatter_tensor_device_cpu_use_native_funcol_False (__main__.TestTraceableCollectives)": [
-    "121805",
-    "https://github.com/pytorch/pytorch/issues/121805",
-    [
-      "linux"
-    ]
-  ],
   "test_reduce_scatter_uneven (__main__.DeviceMeshCollectiveTest)": [
     "98024",
     "https://github.com/pytorch/pytorch/issues/98024",
