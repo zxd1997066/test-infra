@@ -174,6 +174,13 @@
       "slow"
     ]
   ],
+  "test_binary_op_list_error_cases__foreach_add_cuda_bfloat16 (__main__.TestForeachCUDA)": [
+    "122790",
+    "https://github.com/pytorch/pytorch/issues/122790",
+    [
+      "linux"
+    ]
+  ],
   "test_bitwise_cuda_cuda_wrapper (__main__.TestCudaWrapper)": [
     "121511",
     "https://github.com/pytorch/pytorch/issues/121511",
