@@ -463,6 +463,13 @@
       "rocm"
     ]
   ],
+  "test_custom_op_1_cuda_dynamic_shapes_cuda_wrapper (__main__.DynamicShapesCudaWrapperCudaTests)": [
+    "122837",
+    "https://github.com/pytorch/pytorch/issues/122837",
+    [
+      "rocm"
+    ]
+  ],
   "test_ddp_apply_optim_in_backward_ignored_params (__main__.TestDistBackendWithSpawn)": [
     "106361",
     "https://github.com/pytorch/pytorch/issues/106361",
