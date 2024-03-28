@@ -815,6 +815,13 @@
       "dynamo"
     ]
   ],
+  "test_impl_on_existing_op_with_cpu_registration_key_CompositeExplicitAutograd (__main__.TestCustomOp)": [
+    "120656",
+    "https://github.com/pytorch/pytorch/issues/120656",
+    [
+      "dynamo"
+    ]
+  ],
   "test_ind_worker_queue (__main__.TestIndividualWorkerQueue)": [
     "68643",
     "https://github.com/pytorch/pytorch/issues/68643",
