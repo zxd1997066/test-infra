@@ -343,6 +343,15 @@
       "linux"
     ]
   ],
+  "test_constant_insertion (__main__.TestJit)": [
+    "96894",
+    "https://github.com/pytorch/pytorch/issues/96894",
+    [
+      "win",
+      "windows",
+      "dynamo"
+    ]
+  ],
   "test_conv (quantization.jit.test_quantize_jit.TestQuantizeJit)": [
     "105125",
     "https://github.com/pytorch/pytorch/issues/105125",
@@ -1412,14 +1421,6 @@
       "mac",
       "rocm",
       "linux"
-    ]
-  ],
-  "test_profiler_experimental_tree_with_memory (__main__.TestProfilerTree)": [
-    "82501",
-    "https://github.com/pytorch/pytorch/issues/82501",
-    [
-      "linux",
-      "rocm"
     ]
   ],
   "test_profiler_experimental_tree_with_memory_and_stack (__main__.TestProfilerTree)": [
