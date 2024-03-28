@@ -91,6 +91,13 @@
       "macos"
     ]
   ],
+  "test_arg_dupe_via_dynamo_recompiles_many_args_dynamic_shapes (__main__.DynamicShapesAotAutogradFallbackTests)": [
+    "122925",
+    "https://github.com/pytorch/pytorch/issues/122925",
+    [
+      "mac"
+    ]
+  ],
   "test_artificial_grid_cpp_wrapper (__main__.TestTritonHeuristics)": [
     "121709",
     "https://github.com/pytorch/pytorch/issues/121709",
