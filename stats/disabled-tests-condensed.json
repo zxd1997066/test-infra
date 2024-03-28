@@ -1697,6 +1697,13 @@
       "slow"
     ]
   ],
+  "test_sdpa_rewriter_3_cuda (__main__.SDPAPatternRewriterCudaDynamicTests)": [
+    "122896",
+    "https://github.com/pytorch/pytorch/issues/122896",
+    [
+      "rocm"
+    ]
+  ],
   "test_sdpa_with_packed_in_proj_cuda_bfloat16 (__main__.TestNestedTensorSubclassCUDA)": [
     "119991",
     "https://github.com/pytorch/pytorch/issues/119991",
