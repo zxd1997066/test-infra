@@ -977,13 +977,6 @@
       "rocm"
     ]
   ],
-  "test_itertools_accumulate_tensors_user_defined (__main__.MiscTests)": [
-    "121941",
-    "https://github.com/pytorch/pytorch/issues/121941",
-    [
-      "linux"
-    ]
-  ],
   "test_jvpvjp_nn_functional_conv3d_cuda_float32 (__main__.TestOperatorsCUDA)": [
     "114654",
     "https://github.com/pytorch/pytorch/issues/114654",
