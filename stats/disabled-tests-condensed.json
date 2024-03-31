@@ -596,13 +596,6 @@
       "rocm"
     ]
   ],
-  "test_expanded_reduction_cpu (__main__.CpuTests)": [
-    "87157",
-    "https://github.com/pytorch/pytorch/issues/87157",
-    [
-      "linux"
-    ]
-  ],
   "test_extract_gradients_from_optimizer_set_to_none (__main__.TestIdentifyGradients)": [
     "88721",
     "https://github.com/pytorch/pytorch/issues/88721",
