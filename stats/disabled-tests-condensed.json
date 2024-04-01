@@ -98,6 +98,21 @@
       "linux"
     ]
   ],
+  "test_aot_export_auto_functionalize_simple_cuda_int32 (__main__.TestHOPCUDA)": [
+    "123095",
+    "https://github.com/pytorch/pytorch/issues/123095",
+    [
+      "linux",
+      "slow"
+    ]
+  ],
+  "test_aot_export_cond_simple_cuda_float32 (__main__.TestHOPCUDA)": [
+    "123096",
+    "https://github.com/pytorch/pytorch/issues/123096",
+    [
+      "linux"
+    ]
+  ],
   "test_arg_dupe_via_dynamo_recompiles_many_args_dynamic_shapes (__main__.DynamicShapesAotAutogradFallbackTests)": [
     "122925",
     "https://github.com/pytorch/pytorch/issues/122925",
@@ -1954,6 +1969,13 @@
   "test_successful (jit.test_freezing.TestMKLDNNReinplacing)": [
     "91489",
     "https://github.com/pytorch/pytorch/issues/91489",
+    [
+      "linux"
+    ]
+  ],
+  "test_super_resolution_cuda (__main__.TestModels)": [
+    "105332",
+    "https://github.com/pytorch/pytorch/issues/105332",
     [
       "linux"
     ]
