@@ -514,13 +514,6 @@
       "linux"
     ]
   ],
-  "test_ddp_baseline_aot_eager_multiprocess (__main__.TestMultiProc)": [
-    "121336",
-    "https://github.com/pytorch/pytorch/issues/121336",
-    [
-      "rocm"
-    ]
-  ],
   "test_ddp_has_finalized (__main__.TestDistBackendWithSpawn)": [
     "102751",
     "https://github.com/pytorch/pytorch/issues/102751",
@@ -689,13 +682,6 @@
     "https://github.com/pytorch/pytorch/issues/91467",
     [
       "dynamo"
-    ]
-  ],
-  "test_fsdp_aot_eager (__main__.TestMultiProc)": [
-    "121443",
-    "https://github.com/pytorch/pytorch/issues/121443",
-    [
-      "rocm"
     ]
   ],
   "test_fully_shard_training_overlap (__main__.TestFullyShardOverlap)": [
@@ -1975,13 +1961,6 @@
   "test_successful (jit.test_freezing.TestMKLDNNReinplacing)": [
     "91489",
     "https://github.com/pytorch/pytorch/issues/91489",
-    [
-      "linux"
-    ]
-  ],
-  "test_super_resolution_cuda (__main__.TestModels)": [
-    "105332",
-    "https://github.com/pytorch/pytorch/issues/105332",
     [
       "linux"
     ]
