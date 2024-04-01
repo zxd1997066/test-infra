@@ -1586,13 +1586,6 @@
       "rocm"
     ]
   ],
-  "test_register_functional_op_with_optional (__main__.TestPythonRegistration)": [
-    "117871",
-    "https://github.com/pytorch/pytorch/issues/117871",
-    [
-      "dynamo"
-    ]
-  ],
   "test_relu_cuda_dynamic_shapes_cuda_wrapper (__main__.DynamicShapesCudaWrapperCudaTests)": [
     "122364",
     "https://github.com/pytorch/pytorch/issues/122364",
