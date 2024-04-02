@@ -628,6 +628,11 @@
       "linux"
     ]
   ],
+  "test_fd_pool (__main__.TestMultiprocessing)": [
+    "69660",
+    "https://github.com/pytorch/pytorch/issues/69660",
+    []
+  ],
   "test_find_or_create_pg (__main__.TestPgTag)": [
     "107278",
     "https://github.com/pytorch/pytorch/issues/107278",
@@ -1571,13 +1576,6 @@
     "https://github.com/pytorch/pytorch/issues/122525",
     [
       "linux"
-    ]
-  ],
-  "test_reduction_scratch_buffer_cpp_wrapper_persistent_reduction (__main__.MultiKernelTest)": [
-    "122176",
-    "https://github.com/pytorch/pytorch/issues/122176",
-    [
-      "rocm"
     ]
   ],
   "test_redundant_clone_for_layout_convert_cuda (__main__.FreezingCudaTests)": [
