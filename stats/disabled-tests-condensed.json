@@ -1573,20 +1573,6 @@
       "linux"
     ]
   ],
-  "test_reduction_scratch_buffer_cpp_wrapper (__main__.MultiKernelTest)": [
-    "122133",
-    "https://github.com/pytorch/pytorch/issues/122133",
-    [
-      "rocm"
-    ]
-  ],
-  "test_reduction_scratch_buffer_cpp_wrapper_non_persistent_reduction (__main__.MultiKernelTest)": [
-    "122162",
-    "https://github.com/pytorch/pytorch/issues/122162",
-    [
-      "rocm"
-    ]
-  ],
   "test_reduction_scratch_buffer_cpp_wrapper_persistent_reduction (__main__.MultiKernelTest)": [
     "122176",
     "https://github.com/pytorch/pytorch/issues/122176",
