@@ -1480,6 +1480,14 @@
       "asan"
     ]
   ],
+  "test_profiler_experimental_tree_with_record_function (__main__.TestProfilerTree)": [
+    "83246",
+    "https://github.com/pytorch/pytorch/issues/83246",
+    [
+      "linux",
+      "rocm"
+    ]
+  ],
   "test_public_api_surface (__main__.TestFXAPIBackwardCompatibility)": [
     "104012",
     "https://github.com/pytorch/pytorch/issues/104012",
