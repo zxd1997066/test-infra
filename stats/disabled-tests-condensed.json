@@ -246,6 +246,19 @@
       "linux"
     ]
   ],
+  "test_buffer_mutation_3_abi_compatible_cuda (__main__.AOTInductorTestABICompatibleCuda)": [
+    "123251",
+    "https://github.com/pytorch/pytorch/issues/123251",
+    [
+      "<fill this in or delete. valid labels are: asan",
+      "linux",
+      "mac",
+      "macos",
+      "rocm",
+      "win",
+      "windows.>"
+    ]
+  ],
   "test_builtin_remote_message_dropped_timeout_to_self (__main__.FaultyFaultyAgentRpcTest)": [
     "69179",
     "https://github.com/pytorch/pytorch/issues/69179",
