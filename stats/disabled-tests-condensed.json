@@ -649,13 +649,6 @@
       "rocm"
     ]
   ],
-  "test_flash_atteention_large_bf16_nan_values_cuda (__main__.TestSDPAFailureModesCUDA)": [
-    "122238",
-    "https://github.com/pytorch/pytorch/issues/122238",
-    [
-      "rocm"
-    ]
-  ],
   "test_fn_grad___rmod___cuda_float64 (__main__.TestBwdGradientsCUDA)": [
     "101770",
     "https://github.com/pytorch/pytorch/issues/101770",
