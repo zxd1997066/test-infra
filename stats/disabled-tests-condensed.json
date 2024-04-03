@@ -1177,6 +1177,13 @@
       "slow"
     ]
   ],
+  "test_mnist (__main__.TORCH_NN_MODULE)": [
+    "123254",
+    "https://github.com/pytorch/pytorch/issues/123254",
+    [
+      "linux"
+    ]
+  ],
   "test_multinomial_gpu_device_constrain_cuda (__main__.TestTorchDeviceTypeCUDA)": [
     "119887",
     "https://github.com/pytorch/pytorch/issues/119887",
