@@ -1095,15 +1095,6 @@
       "slow"
     ]
   ],
-  "test_max_autotune_remote_caching_dynamic_True (__main__.TestMaxAutotune)": [
-    "121194",
-    "https://github.com/pytorch/pytorch/issues/121194",
-    [
-      "rocm",
-      "linux",
-      "slow"
-    ]
-  ],
   "test_mem_get_info (__main__.TestCuda)": [
     "103495",
     "https://github.com/pytorch/pytorch/issues/103495",
@@ -1434,6 +1425,13 @@
     "https://github.com/pytorch/pytorch/issues/75139",
     [
       "rocm"
+    ]
+  ],
+  "test_pre_dispatch_export_auto_functionalize_simple_cuda_float32 (__main__.TestHOPCUDA)": [
+    "123267",
+    "https://github.com/pytorch/pytorch/issues/123267",
+    [
+      "linux"
     ]
   ],
   "test_prim_grad_undefined (test_jit.TestScript)": [
