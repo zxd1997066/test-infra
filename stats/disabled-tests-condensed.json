@@ -1460,6 +1460,14 @@
       "linux"
     ]
   ],
+  "test_pre_dispatch_export_cond_simple_cuda_float32 (__main__.TestHOPCUDA)": [
+    "123352",
+    "https://github.com/pytorch/pytorch/issues/123352",
+    [
+      "linux",
+      "slow"
+    ]
+  ],
   "test_prim_grad_undefined (test_jit.TestScript)": [
     "91493",
     "https://github.com/pytorch/pytorch/issues/91493",
