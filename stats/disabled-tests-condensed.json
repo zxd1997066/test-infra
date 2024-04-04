@@ -244,6 +244,13 @@
       "rocm"
     ]
   ],
+  "test_buffer_mutation_3_non_abi_compatible_cuda (__main__.AOTInductorTestNonABICompatibleCuda)": [
+    "123321",
+    "https://github.com/pytorch/pytorch/issues/123321",
+    [
+      "rocm"
+    ]
+  ],
   "test_builtin_remote_message_dropped_timeout_to_self (__main__.FaultyFaultyAgentRpcTest)": [
     "69179",
     "https://github.com/pytorch/pytorch/issues/69179",
