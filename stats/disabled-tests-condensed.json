@@ -20,6 +20,18 @@
       "rocm"
     ]
   ],
+  "test_access_saved_tensor_twice_without_recomputation_works (__main__.TestAutogradWithCompiledAutograd)": [
+    "123331",
+    "https://github.com/pytorch/pytorch/issues/123331",
+    [
+      "asan",
+      "linux",
+      "mac",
+      "macos",
+      "rocm",
+      "slow"
+    ]
+  ],
   "test_addcdiv_cuda_complex128 (__main__.TestTorchDeviceTypeCUDA)": [
     "119515",
     "https://github.com/pytorch/pytorch/issues/119515",
@@ -383,6 +395,13 @@
     "https://github.com/pytorch/pytorch/issues/76962",
     [
       "linux"
+    ]
+  ],
+  "test_comprehensive_special_spherical_bessel_j0_cuda_int64 (__main__.TestInductorOpInfoCUDA)": [
+    "123332",
+    "https://github.com/pytorch/pytorch/issues/123332",
+    [
+      "inductor"
     ]
   ],
   "test_compute_local_shape_and_global_offset_1D (__main__.UtilTest)": [
@@ -993,6 +1012,14 @@
     [
       "rocm",
       "linux"
+    ]
+  ],
+  "test_item_unbacked_stride_nobreak_cuda (__main__.TestInductorDynamicCUDA)": [
+    "123333",
+    "https://github.com/pytorch/pytorch/issues/123333",
+    [
+      "linux",
+      "slow"
     ]
   ],
   "test_jvpvjp_nn_functional_conv3d_cuda_float32 (__main__.TestOperatorsCUDA)": [
