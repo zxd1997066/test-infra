@@ -32,6 +32,18 @@
       "slow"
     ]
   ],
+  "test_accumulate_grad_with_zero_numel_grad (__main__.TestAutogradWithCompiledAutograd)": [
+    "123373",
+    "https://github.com/pytorch/pytorch/issues/123373",
+    [
+      "asan",
+      "linux",
+      "mac",
+      "macos",
+      "rocm",
+      "slow"
+    ]
+  ],
   "test_addcdiv_cuda_complex128 (__main__.TestTorchDeviceTypeCUDA)": [
     "119515",
     "https://github.com/pytorch/pytorch/issues/119515",
@@ -501,15 +513,6 @@
     "106308",
     "https://github.com/pytorch/pytorch/issues/106308",
     []
-  ],
-  "test_cuda_graph_allocator_propagates_stream (__main__.TestCuda)": [
-    "122413",
-    "https://github.com/pytorch/pytorch/issues/122413",
-    [
-      "linux",
-      "rocm",
-      "slow"
-    ]
   ],
   "test_cuda_graph_error_options (__main__.TestCuda)": [
     "122499",
