@@ -849,13 +849,6 @@
       "dynamo"
     ]
   ],
-  "test_impl_invalid_devices (__main__.TestCustomOp)": [
-    "121119",
-    "https://github.com/pytorch/pytorch/issues/121119",
-    [
-      "dynamo"
-    ]
-  ],
   "test_impl_on_existing_op (__main__.TestCustomOp)": [
     "122412",
     "https://github.com/pytorch/pytorch/issues/122412",
@@ -1684,6 +1677,13 @@
       "linux"
     ]
   ],
+  "test_retrace_export_auto_functionalize_simple_cuda_float32 (__main__.TestHOPCUDA)": [
+    "123449",
+    "https://github.com/pytorch/pytorch/issues/123449",
+    [
+      "linux"
+    ]
+  ],
   "test_retracibility_dynamic_shapes (__main__.DynamicShapesExportTests)": [
     "117914",
     "https://github.com/pytorch/pytorch/issues/117914",
@@ -1943,19 +1943,6 @@
       "rocm",
       "asan",
       "slow"
-    ]
-  ],
-  "test_source_multithreaded_open_in_scope_work_in_main_thread_False (__main__.TestProfiler)": [
-    "119537",
-    "https://github.com/pytorch/pytorch/issues/119537",
-    [
-      "dynamo",
-      "linux",
-      "mac",
-      "macos",
-      "rocm",
-      "slow",
-      "asan"
     ]
   ],
   "test_source_multithreaded_open_in_scope_work_in_main_thread_True (__main__.TestProfiler)": [
