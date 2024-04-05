@@ -730,6 +730,13 @@
       "rocm"
     ]
   ],
+  "test_fuse_attention_all_patterns_serialized (__main__.TestPatternMatcher)": [
+    "123418",
+    "https://github.com/pytorch/pytorch/issues/123418",
+    [
+      "cuda and rocm"
+    ]
+  ],
   "test_gpu_simple (__main__.TensorPipeCudaDistAutogradTest)": [
     "70753",
     "https://github.com/pytorch/pytorch/issues/70753",
@@ -1864,19 +1871,6 @@
     "https://github.com/pytorch/pytorch/issues/119346",
     [
       "asan",
-      "linux",
-      "mac",
-      "macos",
-      "rocm",
-      "slow"
-    ]
-  ],
-  "test_source_multithreaded_close_in_scope_work_in_main_thread_False (__main__.TestProfiler)": [
-    "119364",
-    "https://github.com/pytorch/pytorch/issues/119364",
-    [
-      "asan",
-      "dynamo",
       "linux",
       "mac",
       "macos",
