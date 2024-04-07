@@ -51,6 +51,13 @@
       "inductor"
     ]
   ],
+  "test_alibi_bias_float16 (__main__.TestTemplatedSDPA)": [
+    "123531",
+    "https://github.com/pytorch/pytorch/issues/123531",
+    [
+      "rocm"
+    ]
+  ],
   "test_all_gather_uneven (__main__.DeviceMeshCollectiveTest)": [
     "98049",
     "https://github.com/pytorch/pytorch/issues/98049",
@@ -1202,6 +1209,13 @@
     "https://github.com/pytorch/pytorch/issues/119887",
     [
       "inductor"
+    ]
+  ],
+  "test_nccl_errors_dump (__main__.NcclErrorDumpTest)": [
+    "123530",
+    "https://github.com/pytorch/pytorch/issues/123530",
+    [
+      "rocm"
     ]
   ],
   "test_nested (quantization.jit.test_quantize_jit.TestQuantizeJit)": [
