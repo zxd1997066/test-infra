@@ -521,14 +521,6 @@
     "https://github.com/pytorch/pytorch/issues/106308",
     []
   ],
-  "test_cuda_graph_error_options (__main__.TestCuda)": [
-    "122499",
-    "https://github.com/pytorch/pytorch/issues/122499",
-    [
-      "linux",
-      "slow"
-    ]
-  ],
   "test_cuda_memory_leak_detection (__main__.TestCudaMultiGPU)": [
     "104695",
     "https://github.com/pytorch/pytorch/issues/104695",
