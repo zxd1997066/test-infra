@@ -637,6 +637,13 @@
       "dynamo"
     ]
   ],
+  "test_execution_trace_with_kineto (__main__.TestExecutionTrace)": [
+    "123536",
+    "https://github.com/pytorch/pytorch/issues/123536",
+    [
+      "dynamo"
+    ]
+  ],
   "test_extract_gradients_from_optimizer_set_to_none (__main__.TestIdentifyGradients)": [
     "88721",
     "https://github.com/pytorch/pytorch/issues/88721",
@@ -842,30 +849,9 @@
       "linux"
     ]
   ],
-  "test_impl_cpu (__main__.TestCustomOp)": [
-    "122366",
-    "https://github.com/pytorch/pytorch/issues/122366",
-    [
-      "dynamo"
-    ]
-  ],
   "test_impl_function (__main__.TestCustomOp)": [
     "122388",
     "https://github.com/pytorch/pytorch/issues/122388",
-    [
-      "dynamo"
-    ]
-  ],
-  "test_impl_on_existing_op (__main__.TestCustomOp)": [
-    "122412",
-    "https://github.com/pytorch/pytorch/issues/122412",
-    [
-      "dynamo"
-    ]
-  ],
-  "test_impl_on_existing_op_with_cpu_registration_key_CPU (__main__.TestCustomOp)": [
-    "122475",
-    "https://github.com/pytorch/pytorch/issues/122475",
     [
       "dynamo"
     ]
