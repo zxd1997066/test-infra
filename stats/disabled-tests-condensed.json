@@ -1676,6 +1676,14 @@
       "linux"
     ]
   ],
+  "test_retrace_export_cond_simple_cuda_float32 (__main__.TestHOPCUDA)": [
+    "123564",
+    "https://github.com/pytorch/pytorch/issues/123564",
+    [
+      "linux",
+      "slow"
+    ]
+  ],
   "test_retracibility_dynamic_shapes (__main__.DynamicShapesExportTests)": [
     "117914",
     "https://github.com/pytorch/pytorch/issues/117914",
@@ -1809,6 +1817,14 @@
       "mac"
     ]
   ],
+  "test_serialize_export_auto_functionalize_simple_cuda_float32 (__main__.TestHOPCUDA)": [
+    "123563",
+    "https://github.com/pytorch/pytorch/issues/123563",
+    [
+      "linux",
+      "slow"
+    ]
+  ],
   "test_set_gloo_pg_timeout (__main__.ProcessGroupGlooTest)": [
     "115740",
     "https://github.com/pytorch/pytorch/issues/115740",
@@ -1892,6 +1908,19 @@
     "119514",
     "https://github.com/pytorch/pytorch/issues/119514",
     [
+      "asan",
+      "linux",
+      "mac",
+      "macos",
+      "rocm",
+      "slow"
+    ]
+  ],
+  "test_source_multithreaded_complex_work_in_main_thread_False (__main__.TestProfiler)": [
+    "119490",
+    "https://github.com/pytorch/pytorch/issues/119490",
+    [
+      "dynamo",
       "asan",
       "linux",
       "mac",
@@ -2235,13 +2264,6 @@
     "https://github.com/pytorch/pytorch/issues/121530",
     [
       "rocm"
-    ]
-  ],
-  "test_vmapjvpall_linalg_lu_cuda_float32 (__main__.TestOperatorsCUDA)": [
-    "86770",
-    "https://github.com/pytorch/pytorch/issues/86770",
-    [
-      "linux"
     ]
   ],
   "test_vmapjvpall_linalg_lu_factor_ex_cuda_float32 (__main__.TestOperatorsCUDA)": [
