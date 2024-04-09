@@ -2000,6 +2000,18 @@
       "asan"
     ]
   ],
+  "test_source_multithreaded_open_in_scope_work_in_main_thread_True (__main__.TestProfiler)": [
+    "119668",
+    "https://github.com/pytorch/pytorch/issues/119668",
+    [
+      "asan",
+      "linux",
+      "mac",
+      "macos",
+      "rocm",
+      "slow"
+    ]
+  ],
   "test_split_with_sizes_aot_autograd_cleans_up_traceback_meta (__main__.AotAutogradFallbackTests)": [
     "122767",
     "https://github.com/pytorch/pytorch/issues/122767",
