@@ -1001,6 +1001,13 @@
       "rocm"
     ]
   ],
+  "test_is_isnot (__main__.TestScript)": [
+    "120694",
+    "https://github.com/pytorch/pytorch/issues/120694",
+    [
+      "dynamo"
+    ]
+  ],
   "test_item_to_inputs_kernel_nobreak_cuda (__main__.TestInductorDynamicCUDA)": [
     "119538",
     "https://github.com/pytorch/pytorch/issues/119538",
@@ -1094,13 +1101,6 @@
   "test_lobpcg (__main__.TestAutograd)": [
     "80338",
     "https://github.com/pytorch/pytorch/issues/80338",
-    [
-      "linux"
-    ]
-  ],
-  "test_logaddexp_cpu_complex128 (__main__.TestBinaryUfuncsCPU)": [
-    "123655",
-    "https://github.com/pytorch/pytorch/issues/123655",
     [
       "linux"
     ]
@@ -1362,6 +1362,13 @@
     "https://github.com/pytorch/pytorch/issues/109362",
     [
       "inductor"
+    ]
+  ],
+  "test_number_math (__main__.TestScript)": [
+    "123660",
+    "https://github.com/pytorch/pytorch/issues/123660",
+    [
+      "dynamo"
     ]
   ],
   "test_numpy_ref_mps_nn_functional_conv_transpose1d_mps_float32 (__main__.TestCommonMPS)": [
