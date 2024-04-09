@@ -233,6 +233,13 @@
       "mac"
     ]
   ],
+  "test_binary_op_float_inf_nan__foreach_add_cuda_bfloat16 (__main__.TestForeachCUDA)": [
+    "123634",
+    "https://github.com/pytorch/pytorch/issues/123634",
+    [
+      "linux"
+    ]
+  ],
   "test_binary_op_list_error_cases__foreach_add_cuda_bfloat16 (__main__.TestForeachCUDA)": [
     "122790",
     "https://github.com/pytorch/pytorch/issues/122790",
@@ -862,6 +869,13 @@
       "macos",
       "linux",
       "win"
+    ]
+  ],
+  "test_index (__main__.TestScript)": [
+    "123635",
+    "https://github.com/pytorch/pytorch/issues/123635",
+    [
+      "dynamo"
     ]
   ],
   "test_index_add_correctness (__main__.TestTorch)": [
@@ -1984,18 +1998,6 @@
       "rocm",
       "slow",
       "asan"
-    ]
-  ],
-  "test_source_multithreaded_open_in_scope_work_in_main_thread_True (__main__.TestProfiler)": [
-    "119668",
-    "https://github.com/pytorch/pytorch/issues/119668",
-    [
-      "asan",
-      "linux",
-      "mac",
-      "macos",
-      "rocm",
-      "slow"
     ]
   ],
   "test_split_with_sizes_aot_autograd_cleans_up_traceback_meta (__main__.AotAutogradFallbackTests)": [
