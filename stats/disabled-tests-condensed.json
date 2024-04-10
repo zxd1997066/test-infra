@@ -868,6 +868,13 @@
       "linux"
     ]
   ],
+  "test_hsdp_save_load_state_dict (__main__.TestFSDPHybridShard)": [
+    "123749",
+    "https://github.com/pytorch/pytorch/issues/123749",
+    [
+      "linux"
+    ]
+  ],
   "test_impl_on_existing_op_with_cpu_registration_key_CompositeExplicitAutograd (__main__.TestCustomOp)": [
     "120656",
     "https://github.com/pytorch/pytorch/issues/120656",
