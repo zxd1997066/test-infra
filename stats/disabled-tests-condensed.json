@@ -1083,6 +1083,14 @@
       "linux"
     ]
   ],
+  "test_large_sampler_indices (__main__.TestDataLoaderPersistentWorkers)": [
+    "117784",
+    "https://github.com/pytorch/pytorch/issues/117784",
+    [
+      "mac",
+      "macos"
+    ]
+  ],
   "test_lazy_init (__main__.TestCuda)": [
     "117430",
     "https://github.com/pytorch/pytorch/issues/117430",
@@ -2090,6 +2098,13 @@
     "https://github.com/pytorch/pytorch/issues/91482",
     [
       "linux"
+    ]
+  ],
+  "test_tensor_number_math (__main__.TestScript)": [
+    "123701",
+    "https://github.com/pytorch/pytorch/issues/123701",
+    [
+      "dynamo"
     ]
   ],
   "test_tensor_requires_grad (test_jit.TestScript)": [
