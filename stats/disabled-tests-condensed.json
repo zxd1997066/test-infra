@@ -2087,6 +2087,30 @@
       "slow"
     ]
   ],
+  "test_split_with_sizes_aot_autograd_cleans_up_traceback_meta (__main__.AotAutogradFallbackTests)": [
+    "122767",
+    "https://github.com/pytorch/pytorch/issues/122767",
+    [
+      "asan",
+      "linux",
+      "mac",
+      "macos",
+      "rocm",
+      "slow"
+    ]
+  ],
+  "test_split_with_sizes_aot_autograd_cleans_up_traceback_meta_dynamic_shapes (__main__.DynamicShapesAotAutogradFallbackTests)": [
+    "122766",
+    "https://github.com/pytorch/pytorch/issues/122766",
+    [
+      "linux",
+      "mac",
+      "macos",
+      "rocm",
+      "asan",
+      "slow"
+    ]
+  ],
   "test_subgraphs_with_parameters_device_cuda_dynamic_True (__main__.CondTests)": [
     "120955",
     "https://github.com/pytorch/pytorch/issues/120955",
