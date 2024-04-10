@@ -191,6 +191,15 @@
       "rocm"
     ]
   ],
+  "test_autotuning_cuda (__main__.TestUnbackedSymintsCUDA)": [
+    "123729",
+    "https://github.com/pytorch/pytorch/issues/123729",
+    [
+      "linux",
+      "rocm",
+      "slow"
+    ]
+  ],
   "test_backward_ddp_inside (__main__.TensorPipeDdpUnderDistAutogradTest)": [
     "104328",
     "https://github.com/pytorch/pytorch/issues/104328",
@@ -231,6 +240,24 @@
     "https://github.com/pytorch/pytorch/issues/70755",
     [
       "mac"
+    ]
+  ],
+  "test_basic_cuda (__main__.TestContentStoreCUDA)": [
+    "100209",
+    "https://github.com/pytorch/pytorch/issues/100209",
+    [
+      "rocm",
+      "linux",
+      "slow"
+    ]
+  ],
+  "test_batched_mm_bfloat16_bs_10_cuda_bfloat16 (__main__.TestDecompCUDA)": [
+    "123728",
+    "https://github.com/pytorch/pytorch/issues/123728",
+    [
+      "linux",
+      "rocm",
+      "slow"
     ]
   ],
   "test_binary_op_float_inf_nan__foreach_add_cuda_bfloat16 (__main__.TestForeachCUDA)": [
@@ -358,13 +385,6 @@
     "https://github.com/pytorch/pytorch/issues/100074",
     [
       "linux"
-    ]
-  ],
-  "test_circular_dependencies (__main__.TestImports)": [
-    "110040",
-    "https://github.com/pytorch/pytorch/issues/110040",
-    [
-      "rocm"
     ]
   ],
   "test_compare_cpu__refs_empty_strided_cuda_float32 (__main__.TestCommonCUDA)": [
@@ -757,6 +777,13 @@
       "mac"
     ]
   ],
+  "test_grad_acc_cpu_offload_use_orig_params_True (__main__.TestGradAcc)": [
+    "123726",
+    "https://github.com/pytorch/pytorch/issues/123726",
+    [
+      "rocm"
+    ]
+  ],
   "test_grad_nn_GroupNorm_cuda_float64 (__main__.TestModuleCUDA)": [
     "98677",
     "https://github.com/pytorch/pytorch/issues/98677",
@@ -846,13 +873,6 @@
     "https://github.com/pytorch/pytorch/issues/105024",
     [
       "linux"
-    ]
-  ],
-  "test_impl_function (__main__.TestCustomOp)": [
-    "122388",
-    "https://github.com/pytorch/pytorch/issues/122388",
-    [
-      "dynamo"
     ]
   ],
   "test_impl_on_existing_op_with_cpu_registration_key_CompositeExplicitAutograd (__main__.TestCustomOp)": [
@@ -1789,11 +1809,29 @@
       "windows"
     ]
   ],
+  "test_sdpa_backwards_cuda_float16 (__main__.TestNestedTensorSubclassCUDA)": [
+    "123731",
+    "https://github.com/pytorch/pytorch/issues/123731",
+    [
+      "linux",
+      "slow"
+    ]
+  ],
+  "test_sdpa_backwards_cuda_float32 (__main__.TestNestedTensorSubclassCUDA)": [
+    "123730",
+    "https://github.com/pytorch/pytorch/issues/123730",
+    [
+      "linux",
+      "slow"
+    ]
+  ],
   "test_sdpa_compile_cuda_bfloat16 (__main__.TestNestedTensorSubclassCUDA)": [
     "119903",
     "https://github.com/pytorch/pytorch/issues/119903",
     [
-      "rocm"
+      "rocm",
+      "linux",
+      "slow"
     ]
   ],
   "test_sdpa_compile_cuda_float16 (__main__.TestNestedTensorSubclassCUDA)": [
@@ -1870,6 +1908,14 @@
   "test_serialize_export_auto_functionalize_simple_cuda_float32 (__main__.TestHOPCUDA)": [
     "123563",
     "https://github.com/pytorch/pytorch/issues/123563",
+    [
+      "linux",
+      "slow"
+    ]
+  ],
+  "test_serialize_export_cond_simple_cuda_float32 (__main__.TestHOPCUDA)": [
+    "123727",
+    "https://github.com/pytorch/pytorch/issues/123727",
     [
       "linux",
       "slow"
