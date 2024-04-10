@@ -51,13 +51,6 @@
       "inductor"
     ]
   ],
-  "test_alibi_bias_float16 (__main__.TestTemplatedSDPA)": [
-    "123531",
-    "https://github.com/pytorch/pytorch/issues/123531",
-    [
-      "rocm"
-    ]
-  ],
   "test_alibi_causal_float16 (__main__.TestTemplatedSDPA)": [
     "123610",
     "https://github.com/pytorch/pytorch/issues/123610",
