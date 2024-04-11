@@ -184,6 +184,15 @@
       "rocm"
     ]
   ],
+  "test_autograd_python_custom_function_inplace (__main__.TestAutogradWithCompiledAutograd)": [
+    "123791",
+    "https://github.com/pytorch/pytorch/issues/123791",
+    [
+      "linux",
+      "mac",
+      "macos"
+    ]
+  ],
   "test_autotuning_cuda (__main__.TestUnbackedSymintsCUDA)": [
     "123729",
     "https://github.com/pytorch/pytorch/issues/123729",
@@ -513,6 +522,13 @@
     "https://github.com/pytorch/pytorch/issues/105528",
     [
       "rocm"
+    ]
+  ],
+  "test_cow_input_sparse_sampled_addmm_cuda_float32 (__main__.TestCompositeComplianceCUDA)": [
+    "123792",
+    "https://github.com/pytorch/pytorch/issues/123792",
+    [
+      "linux"
     ]
   ],
   "test_cpp_frontend_module_has_same_output_as_python (__main__.TestCppExtensionJIT)": [
@@ -873,13 +889,6 @@
     "https://github.com/pytorch/pytorch/issues/123749",
     [
       "linux"
-    ]
-  ],
-  "test_impl_on_existing_op_with_cpu_registration_key_CompositeExplicitAutograd (__main__.TestCustomOp)": [
-    "120656",
-    "https://github.com/pytorch/pytorch/issues/120656",
-    [
-      "dynamo"
     ]
   ],
   "test_ind_worker_queue (__main__.TestIndividualWorkerQueue)": [
