@@ -190,7 +190,10 @@
     [
       "linux",
       "mac",
-      "macos"
+      "macos",
+      "asan",
+      "rocm",
+      "slow"
     ]
   ],
   "test_autotuning_cuda (__main__.TestUnbackedSymintsCUDA)": [
